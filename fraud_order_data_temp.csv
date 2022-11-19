@@ -1,0 +1,420 @@
+merchant,id,status,order_date,payment_date,shipping_date,product_id,product_name,Grade,price,quantity,SKU,subtotal,total,memo_content,shipping_prefecture,注文詳細ID,Domain,payment_method,canceller,product_code,total_price,status_id,orderline_value,payment_status
+Amemoba,47495.0,less_normal,,,,7439,AirPods 3 (エアポッツ第3世代 - MME73J/A),B,20000,1,4K6QHWH4,20000,20000,,small_city,324370,other,credit_card,big_canceller,546537,20000,35,20000,
+Sakumoba,49237.0,less_normal,,,,7988,iPhone 6s 32GB - スペースグレイ SIMフリー,C,10300,1,,10300,10300,,small_city,336545,other,credit_card,big_canceller,14663,10300,35,10300,
+PRODIG,,less_normal,,,,1472,iPhone SE (第2世代) 128GB - ホワイト SIMフリー,C,29800,1,,29800,29800,,big_city,473331,other,credit_card,big_canceller,347184,29800,35,29800,
+SECOND HAND,66326.0,less_normal,,,,12229,iPhone 12 Pro Max 256GB - グラファイト SIMフリー,C,124500,1,IP12PRM256GRP-3,124500,124500,,big_city,461027,other,credit_card,big_canceller,413847,124500,35,124500,―
+ワールドモバイル,66907.0,less_normal,,,,11692,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi - 256GB - スペースグレイ,A,96800,1,,96800,96800,,big_city,465366,other,credit_card,big_canceller,428051,96800,35,96800,―
+PRODIG,78181.0,less_normal,,,,9389,iPhone 12 128GB - ホワイト SIMフリー,B,91976,1,12-wh-128-2,91976,91976,,big_city,553561,other,credit_card,big_canceller,418116,91976,35,91976,
+Amemoba,78580.0,less_normal,,,,13371,iPhone 13 128GB - ピンク SIMフリー,A,115000,1,2633518,115000,115000,,big_city,557108,gmail.com,credit_card,big_canceller,512310,115000,35,115000,
+Reuse Style,78584.0,less_normal,,,,12458,iPhone 12 128GB - グリーン SIMフリー,B,91795,1,,91795,91795,,big_city,557138,gmail.com,credit_card,big_canceller,418122,91795,35,91795,
+Likewize Japan,78726.0,less_normal,,,,4602,iPhone 12 Pro 512GB - パシフィックブルー SIMフリー,B,101000,1,,101000,101000,,big_city,558594,gmail.com,credit_card,big_canceller,510372,101000,35,101000,
+PRODIG,79035.0,less_normal,,,,4955,iPhone 12 128GB - ブルー SIMフリー,B,93800,1,12-br-128-2,93800,93800,,big_city,561428,gmail.com,credit_card,big_canceller,418120,93800,35,93800,
+SECOND HAND,80044.0,less_normal,,,,11358,iPhone 12 64GB - パープル SIMフリー,C,80000,1,IP1264PPL-3,80000,80000,,big_city,570837,gmail.com,credit_card,big_canceller,475946,80000,35,80000,
+Lucky Sky,80489.0,normal,2022-09-01,44805.63449074074,,9869,iPhone 12 256GB - ブラック SIMフリー,A,95000,1,IP12-256G-BLACK-S,95000,95000,"Fraud
+なりすましの可能性がありキャンセル",big_city,574606,gmail.com,credit_card,mid_canceller,418112,95000,3,95000,cancel
+ワールドモバイル,57472.0,less_normal,,,,2653,iPad mini 第5世代 7.9インチ - 2019 - WiFi + Cellular - 256GB - スペースグレイ SIMフリー,C,46800,1,,46800,46800,,big_city,395803,other,credit_card,big_canceller,303914,46800,35,46800,
+P&G,82933.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,18500,1,4549995054170-d,18500,18500,,big_city,597569,gmail.com,credit_card,big_canceller,388408,18500,35,18500,
+P&G,51741.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,small_city,354666,other,credit_card,big_canceller,308532,22990,35,22990,
+Sakumoba,47611.0,less_normal,,,,7498,iPhone 13 Pro 512GB - ゴールド SIMフリー,A,147980,1,,147980,147980,,big_city,325200,other,credit_card,big_canceller,512410,147980,35,147980,―
+Loop Mobile,52816.0,less_normal,,,,9245,iPhone 12 256GB - グリーン SIMフリー,A,88500,1,PH-AP-IP1200-FAC-256-GR-A2403-A,88500,88500,,small_city,362255,other,credit_card,big_canceller,388256,88500,35,88500,
+Amemoba,79628.0,normal,2022-08-29,44802.47046296296,,12744,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - スペースグレイ,A,96800,1,71505930,96800,96800,,small_city,566855,gmail.com,credit_card,mid_canceller,687769,96800,3,96800,cancel
+Amemoba,83692.0,less_normal,,,,10966,iPhone 12 128GB - (PRODUCT)Red SIMフリー,C,78899,1,14238930,78899,78899,,small_city,604556,gmail.com,credit_card,big_canceller,418118,78899,35,78899,
+P&G,83485.0,less_normal,,,,13097,Apple Watch Series 3 (GPSモデル) - 2017 - 38mm スペースグレイアルミニウムケース - ブラックスポーツバンド付き,A,23800,1,4549995043402-d,23800,23800,,small_city,602806,other,credit_card,big_canceller,48408,23800,35,23800,
+P&G,65421.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,18500,1,4549995054170-d,18500,18500,,big_city,454189,other,credit_card,big_canceller,388408,18500,35,18500,―
+アップルバイヤーズ,82099.0,less_normal,,,,13991,iPhone 12 128GB - ホワイト SIMフリー,A,96800,1,39174,96800,96800,,small_city,589584,gmail.com,credit_card,big_canceller,418116,96800,35,96800,
+アップルバイヤーズ,82442.0,less_normal,,,,13991,iPhone 12 128GB - ホワイト SIMフリー,A,96800,1,39174,96800,96800,,small_city,592923,gmail.com,credit_card,big_canceller,418116,96800,35,96800,
+アップルバイヤーズ,82108.0,less_normal,,,,13991,iPhone 12 128GB - ホワイト SIMフリー,A,96800,1,39174,96800,96800,,small_city,589675,gmail.com,credit_card,big_canceller,418116,96800,35,96800,
+Likewize Japan,46590.0,less_normal,,,,7570,iPhone 12 128GB - ブルー SIMフリー,B,76000,1,,76000,76000,,small_city,318071,other,credit_card,big_canceller,418120,76000,35,76000,
+Amemoba,67621.0,less_normal,,,,9276,iPhone 12 64GB - ホワイト SIMフリー,B,79799,1,753264,79799,79799,,small_city,470673,gmail.com,credit_card,big_canceller,418117,79799,35,79799,
+Likewize Japan,79952.0,normal,2022-08-30,44803.63024305556,,10662,iPhone 12 64GB - ブラック SIMフリー,A,68995,1,,68995,68995,,small_city,570018,gmail.com,credit_card,mid_canceller,418114,68995,3,68995,cancel
+SECOND HAND,63253.0,less_normal,,,,6448,iPhone 11 128GB - ブラック SIMフリー,A,59000,1,IP11128BK-1,59000,59000,,big_city,438386,other,credit_card,big_canceller,290063,59000,35,59000,―
+Amemoba,64759.0,less_normal,,,,11115,iPhone 13 Pro 256GB - シエラブルー SIMフリー,C,147800,1,,147800,147800,,big_city,449487,other,credit_card,big_canceller,512422,147800,35,147800,
+PRODIG,82097.0,less_normal,,,,4955,iPhone 12 128GB - ブルー SIMフリー,B,93800,1,12-br-128-2,93800,93800,,small_city,589567,gmail.com,credit_card,big_canceller,418120,93800,35,93800,
+Sakumoba,76138.0,less_normal,,,,6831,iPhone 12 128GB - ブルー SIMフリー,C,86800,1,,86800,86800,,big_city,535814,gmail.com,credit_card,big_canceller,418120,86800,35,86800,―
+ワールドモバイル,80870.0,less_normal,,,,14061,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi + Cellular - 512GB - シルバー SIMフリー,A,101800,1,,101800,101800,,big_city,578027,other,credit_card,big_canceller,338473,101800,35,101800,
+ワールドモバイル,56404.0,less_normal,,,,7745,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 256GB - スペースグレイ,B,75800,1,,75800,75800,,small_city,388064,gmail.com,credit_card,big_canceller,338083,75800,35,75800,―
+ワールドモバイル,53625.0,less_normal,,,,6631,iPad Air 第4世代 10.9インチ - 2020 - WiFi + Cellular - 256GB - スカイブルー SIMフリー,C,74800,1,,74800,74800,,big_city,368063,gmail.com,credit_card,big_canceller,408816,74800,35,74800,
+Loop Mobile,45000.0,less_normal,,,,4989,iPhone 12 Pro Max 512GB - シルバー SIMフリー,C,128500,1,PH-AP-IP12PM-FAC-512-SL-A2410-C,128500,128500,,big_city,306961,other,credit_card,big_canceller,413848,128500,35,128500,―
+Loop Mobile,45684.0,less_normal,,,,4797,iPhone 12 Pro 128GB - グラファイト SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-GP-A2406-C,99500,99500,,big_city,311889,other,credit_card,big_canceller,413171,99500,35,99500,
+ワールドモバイル,48076.0,less_normal,,,,7746,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 256GB - シルバー,B,75800,1,,75800,75800,,big_city,328389,other,credit_card,big_canceller,338087,75800,35,75800,
+Loop Mobile,48852.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-PC-A2410-C,124000,124000,,big_city,333873,other,credit_card,big_canceller,413849,124000,35,124000,―
+Loop Mobile,49065.0,less_normal,,,,4990,iPhone 12 Pro Max 512GB - ゴールド SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-GD-A2410-C,124000,124000,,big_city,335365,other,credit_card,big_canceller,413850,124000,35,124000,
+Lucky Sky,52830.0,less_normal,,,,8909,iPhone 12 128GB - ブラック SIMフリー,A,79000,1,IP12-128G-BLACK-S,79000,79000,,big_city,362403,gmail.com,credit_card,big_canceller,418115,79000,35,79000,―
+ワールドモバイル,80878.0,less_normal,,,,14058,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi + Cellular - 1TB - シルバー SIMフリー,A,104800,1,,104800,104800,,big_city,578124,other,credit_card,big_canceller,338477,104800,35,104800,
+Amemoba,77108.0,less_normal,,,,11233,iPhone 12 128GB - ブラック SIMフリー,C,72999,1,20253937,72999,72999,,big_city,543899,other,credit_card,big_canceller,418115,72999,35,72999,
+Amemoba,77134.0,less_normal,,,,11233,iPhone 12 128GB - ブラック SIMフリー,C,72999,1,20253937,72999,72999,,big_city,544194,other,credit_card,big_canceller,418115,72999,35,72999,
+Likewize Japan,78143.0,less_normal,,,,7217,iPhone 12 64GB - グリーン SIMフリー,B,67000,1,,67000,67000,,big_city,553145,other,credit_card,big_canceller,418123,67000,35,67000,―
+Amemoba,78995.0,normal,2022-08-26,44799.577939814815,,11427,iPad mini 第6世代 8.3インチ - 2021 - WiFi + Cellular - 64GB - スターライト,A,92800,1,70088393,92800,92800,canceled; unable to complete 本人確認,big_city,561066,gmail.com,credit_card,mid_canceller,512575,92800,3,92800,cancel
+P&G,64840.0,normal,2022-07-14,44756.09936342593,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,18500,1,4549995054170-d,18500,18500,,small_city,450058,other,credit_card,mid_canceller,388408,18500,3,18500,cancel
+Amemoba,66045.0,less_normal,,,,11719,iPhone 13 Pro Max 512GB - シエラブルー SIMフリー,A,198000,1,905610,198000,198000,,big_city,458792,gmail.com,credit_card,big_canceller,512431,198000,35,198000,―
+ハピネスネット,57619.0,less_normal,,,,10762,iPhone 13 Pro 256GB - シエラブルー SIMフリー,A,177000,1,,177000,177000,,small_city,396833,gmail.com,credit_card,big_canceller,512422,177000,35,177000,―
+Amemoba,74545.0,less_normal,,,,7382,AirPods Pro (エアポッツプロ - MWP22J/A),C,26800,1,J3LVLKKT,26800,26800,,big_city,522437,other,credit_card,big_canceller,308532,26800,35,26800,―
+アップルバイヤーズ,57621.0,less_normal,,,,9288,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,102800,1,,102800,102800,,small_city,396846,other,credit_card,big_canceller,413182,102800,35,102800,―
+P&G,58384.0,less_normal,,,,8103,iPhone 12 Pro 128GB - グラファイト SIMフリー,C,98800,1,4549995183887-cc,98800,98800,,small_city,402258,other,credit_card,big_canceller,413171,98800,35,98800,―
+SECOND HAND,55375.0,less_normal,,,,9182,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,103900,2,IP12PR256PBLU-1,207800,207800,,small_city,380606,other,credit_card,big_canceller,413184,207800,35,207800,
+Lucky Sky,59700.0,less_normal,,,,9868,iPhone 12 256GB - グリーン SIMフリー,A,94000,1,IP12-256G-GREEN-S,94000,94000,,small_city,412062,other,credit_card,big_canceller,388256,94000,35,94000,―
+アップルバイヤーズ,76658.0,less_normal,,,,12917,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 256GB - スペースグレイ,A,110757,1,37976,110757,110757,,small_city,540199,other,credit_card,big_canceller,338083,110757,35,110757,
+Amemoba,77233.0,less_normal,,,,12971,iPad Pro 11インチ 第3世代  - 2021 - WiFi - 256GB - スペースグレイ,C,107954,1,9R402MMP,107954,107954,,small_city,545055,other,credit_card,big_canceller,473748,107954,35,107954,
+Sakumoba,47064.0,less_normal,,,,7498,iPhone 13 Pro 512GB - ゴールド SIMフリー,A,147980,1,,147980,147980,,big_city,321280,other,credit_card,big_canceller,512410,147980,35,147980,
+ハピネスネット,56807.0,less_normal,,,,10635,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,163800,1,,163800,163800,,big_city,391110,other,credit_card,big_canceller,512418,163800,35,163800,―
+Sakumoba,46642.0,less_normal,,,,7498,iPhone 13 Pro 512GB - ゴールド SIMフリー,A,147980,1,,147980,147980,,big_city,318440,other,credit_card,big_canceller,512410,147980,35,147980,―
+P&G,45223.0,less_normal,,,,4943,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,119300,1,4549995183955-d,119300,119300,,small_city,308601,other,credit_card,big_canceller,413184,119300,35,119300,―
+PRODIG,65097.0,less_normal,,,,1485,iPhone XR 64GB - ブラック SIMフリー,C,27698,1,,27698,27698,,big_city,451837,other,credit_card,big_canceller,161659,27698,35,27698,
+Likewize Japan,82270.0,less_normal,,,,5767,iPhone 12 64GB - ブルー SIMフリー,B,67000,1,,67000,67000,,small_city,591248,other,credit_card,big_canceller,418121,67000,35,67000,
+SECOND HAND,79091.0,less_normal,,,,12229,iPhone 12 Pro Max 256GB - グラファイト SIMフリー,C,124450,1,IP12PRM256GRP-3,124450,124450,,big_city,561901,other,credit_card,big_canceller,413847,124450,35,124450,
+Sakumoba,51421.0,less_normal,,,,9087,iPhone 12 256GB - (PRODUCT)Red SIMフリー,B,86800,1,,86800,86800,,big_city,352218,gmail.com,credit_card,big_canceller,414217,86800,35,86800,―
+男前ケータイ,46482.0,less_normal,,,,5943,iPhone XR 128GB - コーラル SIMフリー,C,33000,1,,33000,33000,,big_city,317371,other,credit_card,big_canceller,199320,33000,35,33000,―
+Lucky Sky,51584.0,less_normal,,,,7930,iPhone 13 mini 128GB - ピンク SIMフリー,A,81000,1,IP13 MINI-128G-PINK-S,81000,81000,,big_city,353489,other,credit_card,big_canceller,512332,81000,35,81000,―
+Loop Mobile,45970.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-PC-A2406-C,99500,99500,,big_city,313850,other,credit_card,big_canceller,413174,99500,35,99500,
+アップルバイヤーズ,55181.0,less_normal,,,,9118,iPhone 12 Pro Max 256GB - グラファイト SIMフリー,B,124800,1,,124800,124800,,big_city,379226,gmail.com,credit_card,big_canceller,413847,124800,35,124800,―
+ワールドモバイル,54993.0,less_normal,,,,6643,iPad Air 第4世代 10.9インチ - 2020 - WiFi + Cellular - 64GB - グリーン SIMフリー,C,64800,1,,64800,64800,,big_city,377830,gmail.com,credit_card,big_canceller,408773,64800,35,64800,
+Amemoba,78757.0,less_normal,,,,12744,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - スペースグレイ,A,96800,1,71505930,96800,96800,,small_city,558811,other,credit_card,big_canceller,687769,96800,35,96800,
+Sakumoba,79239.0,less_normal,,,,13500,iPad Pro 11インチ 第3世代  - 2021 - WiFi - 128GB - シルバー,A,107993,1,,107993,107993,,small_city,563232,other,credit_card,big_canceller,475041,107993,35,107993,
+Amemoba,80201.0,less_normal,,,,11283,iPad mini 第6世代 8.3インチ - 2021 - WiFi - 64GB - スペースグレイ,A,82800,1,Q9G6JHKJ,82800,82800,,small_city,572288,other,credit_card,big_canceller,512566,82800,35,82800,
+アップルバイヤーズ,80154.0,normal,2022-08-31,44804.4693287037,,12437,iPhone SE (第1世代) 16GB - スペースグレイ SIMフリー,C,12000,1,371213712437527,12000,12000,本人確認が取れなかった為。,big_city,571910,other,credit_card,mid_canceller,10743,12000,3,12000,cancel
+Reuse Style,79635.0,less_normal,,,,13346,MacBook Air 13インチ - 2020 - Retinaディスプレイ - スペースグレイ - Core i5 1.1 GHz - SSD 256GB - RAM 16GB - JIS配列キーボード,B,115000,1,,115000,115000,,small_city,566950,gmail.com,credit_card,big_canceller,716010_JP,115000,35,115000,
+ハピネスネット,80233.0,normal,2022-08-31,44804.68896990741,,13444,iPhone 12 64GB - ホワイト SIMフリー,A,81769,1,,81769,81769,Fraud: なりすまし懸念によりキャンセル,small_city,572522,gmail.com,credit_card,mid_canceller,418117,81769,3,81769,cancel
+Lucky Sky,48020.0,less_normal,,,,6068,iPhone 12 128GB - パープル SIMフリー,A,83000,1,IP12-128G-PURPLE-S,83000,83000,,small_city,328024,other,credit_card,big_canceller,475988,83000,35,83000,
+Loop Mobile,45033.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-PC-A2406-C,99500,99500,,small_city,307204,other,credit_card,big_canceller,413174,99500,35,99500,
+RECO,64680.0,less_normal,,,,11232,iPhone 13 Pro 256GB - シルバー SIMフリー,B,158800,1,,158800,158800,,small_city,448864,other,credit_card,big_canceller,512414,158800,35,158800,―
+Guest Mobile,77214.0,less_normal,,,,13409,iPhone 13 Pro Max 256GB - シエラブルー SIMフリー,A,199800,1,,199800,199800,,small_city,544899,other,credit_card,big_canceller,512429,199800,35,199800,
+PRODIG,67295.0,less_normal,,,,1557,iPhone SE (第2世代) 64GB - ホワイト SIMフリー,B,33800,1,se2-wh-64-2,33800,33800,,big_city,468215,other,credit_card,big_canceller,347380,33800,35,33800,―
+ワールドモバイル,83521.0,less_normal,,,,12739,iPad Air 第4世代 10.9インチ - 2020 - WiFi - 64GB - スペースグレイ,A,68800,1,,68800,68800,,big_city,603121,other,credit_card,big_canceller,417916,68800,35,68800,
+Amemoba,79663.0,less_normal,,,,10910,iPhone 12 128GB - (PRODUCT)Red SIMフリー,A,85899,1,30387358,85899,85899,,big_city,567206,gmail.com,credit_card,big_canceller,418118,85899,35,85899,
+P&G,70057.0,less_normal,,,,12036,Apple Watch Series 6 (GPSモデル) - 2020 - 44mm ブルーアルミニウムケース - ディープネイビースポーツバンド付き,C,41000,1,4549995176711-cc,41000,41000,,big_city,489055,other,credit_card,big_canceller,568721,41000,35,41000,
+P&G,70045.0,less_normal,,,,12045,Apple Watch Series 6 (GPSモデル) - 2020 - 40mm ブルーアルミニウムケース - ディープネイビースポーツバンド付き,C,39000,1,4549995173871-cc,39000,39000,,big_city,488960,other,credit_card,big_canceller,634882,39000,35,39000,
+Amemoba,79712.0,less_normal,,,,10910,iPhone 12 128GB - (PRODUCT)Red SIMフリー,A,85899,1,30387358,85899,85899,,big_city,567769,gmail.com,credit_card,big_canceller,418118,85899,35,85899,
+ハピネスネット,81646.0,less_normal,,,,11386,iPhone 12 64GB - パープル SIMフリー,A,78800,1,,78800,78800,,big_city,585464,gmail.com,credit_card,big_canceller,475946,78800,35,78800,
+P&G,58509.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,big_city,403165,gmail.com,credit_card,big_canceller,308532,22990,35,22990,―
+Sakumoba,76474.0,less_normal,,,,13500,iPad Pro 11インチ 第3世代  - 2021 - WiFi - 128GB - シルバー,A,109700,1,,109700,109700,,small_city,538677,other,credit_card,big_canceller,475041,109700,35,109700,
+Amemoba,76904.0,less_normal,,,,11721,iPhone 11 256GB - ホワイト SIMフリー,C,57800,1,13566561,57800,57800,,small_city,542312,other,credit_card,big_canceller,290069,57800,35,57800,
+Lucky Sky,70283.0,less_normal,,,,12489,iPhone 12 Pro 128GB - シルバー SIMフリー,A,107000,1,IP12 PRO-128G-SILVER-S,213000,213000,,small_city,490653,gmail.com,credit_card,big_canceller,413172,213000,35,107000,
+Sakumoba,55274.0,less_normal,,,,9936,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 256GB - スペースグレイ,A,86800,1,,86800,86800,,small_city,379932,other,credit_card,big_canceller,338083,86800,35,86800,―
+アップルバイヤーズ,83543.0,less_normal,,,,7957,iPhone 6s 64GB - シルバー SIMフリー,B,14966,1,2390837363,14966,14966,,small_city,603315,yahoo.co.jp,credit_card,big_canceller,3218,14966,35,14966,
+男前ケータイ,77986.0,less_normal,,,,12709,iPhone 13 Pro 256GB - シエラブルー SIMフリー,A,149890,1,,149890,149890,,small_city,551757,gmail.com,credit_card,big_canceller,512422,149890,35,149890,―
+Lucky Sky,78007.0,less_normal,,,,13437,iPhone 13 Pro 256GB - シルバー SIMフリー,A,147000,1,IP13 PRO-256G-SILVER-S,147000,147000,,small_city,551937,gmail.com,credit_card,big_canceller,512414,147000,35,147000,
+Lucky Sky,78566.0,less_normal,,,,13433,iPhone 13 256GB - ピンク SIMフリー,A,112899,1,IP13-256G-PINK-S,112899,112899,,small_city,556956,gmail.com,credit_card,big_canceller,512311,112899,35,112899,―
+Sakumoba,79939.0,less_normal,,,,11496,iPhone 12 Pro 128GB - シルバー SIMフリー,C,100120,1,,100120,100120,,small_city,569893,gmail.com,credit_card,big_canceller,413172,100120,35,100120,
+Guest Mobile,79719.0,normal,2022-08-29,44802.733310185184,,13406,iPhone 13 Pro Max 256GB - ゴールド SIMフリー,A,199800,1,,199800,199800,,small_city,567842,gmail.com,credit_card,mid_canceller,512439,199800,3,199800,cancel
+ケートラ,58634.0,less_normal,,,,9267,Beats by Dr. Dre Solo Pro ワイヤレスノイズキャンセリングヘッドホン - ブラック - 1P3G664FE/A,A,19180,1,,19180,19180,,big_city,404048,other,credit_card,big_canceller,490483,19180,35,19180,―
+Amemoba,83157.0,less_normal,,,,11191,iPad Air 第4世代 10.9インチ - 2020 - WiFi - 64GB - シルバー,A,68800,1,584JQ16N,68800,68800,,big_city,599560,other,credit_card,big_canceller,419600,68800,35,68800,
+アップルバイヤーズ,80493.0,less_normal,,,,13922,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,96999,1,39388,96999,96999,,small_city,574639,gmail.com,credit_card,big_canceller,413184,96999,35,96999,
+Amemoba,80482.0,less_normal,,,,13369,iPhone 12 Pro 128GB - シルバー SIMフリー,C,99999,1,18026416,99999,99999,,small_city,574547,gmail.com,credit_card,big_canceller,413172,99999,35,99999,
+Likewize Japan,80486.0,less_normal,,,,4459,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,97000,1,,97000,97000,,small_city,574575,gmail.com,credit_card,big_canceller,413184,97000,35,97000,
+SECOND HAND,80525.0,less_normal,,,,11358,iPhone 12 64GB - パープル SIMフリー,C,80000,1,IP1264PPL-3,80000,80000,,small_city,574998,gmail.com,credit_card,big_canceller,475946,80000,35,80000,
+Amemoba,58649.0,less_normal,,,,10858,iPhone 13 128GB - ブルー SIMフリー,A,95800,1,517652,95800,95800,,big_city,404150,other,credit_card,big_canceller,512315,95800,35,95800,
+RECO,60306.0,less_normal,,,,11232,iPhone 13 Pro 256GB - シルバー SIMフリー,B,158800,1,,158800,158800,,big_city,416498,other,credit_card,big_canceller,512414,158800,35,158800,―
+Amemoba,60380.0,less_normal,,,,11231,iPhone 13 Pro 512GB- グラファイト SIMフリー,C,175000,1,883479,175000,175000,,big_city,417074,other,credit_card,big_canceller,512406,175000,35,175000,
+PRODIG,79666.0,less_normal,,,,4955,iPhone 12 128GB - ブルー SIMフリー,B,93800,1,12-br-128-2,93800,93800,,small_city,567234,gmail.com,credit_card,big_canceller,418120,93800,35,93800,
+ワールドモバイル,50287.0,less_normal,,,,6652,iPad Air 第4世代 10.9インチ - 2020 - WiFi - 256GB - スペースグレイ,B,70800,1,,70800,70800,,small_city,344189,other,credit_card,big_canceller,417915,70800,35,70800,―
+Reuse Style,79658.0,normal,2022-08-29,44802.59543981482,,13274,iPhone 12 64GB - パープル SIMフリー,A,90200,1,,90200,90200,,small_city,567169,gmail.com,credit_card,mid_canceller,475946,90200,3,90200,cancel
+旭東トレーディング,70083.0,less_normal,,,,10779,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi + Cellular - 512GB - スペースグレイ SIMフリー,A,135800,1,4XF72J/A,135800,135800,,small_city,489223,other,credit_card,big_canceller,338474,135800,35,135800,―
+Likewize Japan,48005.0,less_normal,,,,3581,iPhone 11 64GB - (PRODUCT)Red SIMフリー,C,43200,1,,175600,175600,,small_city,327902,gmail.com,credit_card,big_canceller,290060,175600,35,43200,
+Reuse Style,69551.0,less_normal,,,,10909,iMac 21.5インチ - 2019 - Retinaディスプレイ - シルバー - Core i7 3.2GHz - SSD 1TB - RAM 16GB - JIS配列キーボード - MRT42J/A,C,126500,1,,126500,126500,,big_city,485075,gmail.com,credit_card,big_canceller,999999108,126500,35,126500,―
+Likewize Japan,84130.0,less_normal,,,,3549,iPhone 11 64GB - ブラック SIMフリー,B,44489,1,,44489,44489,,big_city,608293,gmail.com,credit_card,big_canceller,290057,44489,35,44489,
+Likewize Japan,65475.0,less_normal,,,,3549,iPhone 11 64GB - ブラック SIMフリー,B,45000,1,,45000,45000,,big_city,454586,other,credit_card,big_canceller,290057,45000,35,45000,
+P&G,48364.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,big_city,330408,other,credit_card,big_canceller,308532,22990,35,22990,
+Amemoba,70171.0,less_normal,,,,12655,iPhone 12 Pro Max 128GB - ゴールド SIMフリー,B,121975,1,15236666,121975,121975,,big_city,489845,other,credit_card,big_canceller,413839,121975,35,121975,―
+ハピネスネット,74623.0,less_normal,,,,12675,iPhone 13 128GB - ブルー SIMフリー,A,108720,1,,108720,108720,,big_city,522999,other,credit_card,big_canceller,512315,108720,35,108720,―
+Likewize Japan,79934.0,normal,2022-08-30,44803.58274305556,,4653,iPhone 12 Pro 256GB - ゴールド SIMフリー,B,94000,1,,94000,94000,G6TFD0100D8P,big_city,569863,gmail.com,credit_card,mid_canceller,413183,94000,3,94000,cancel
+RECO,78574.0,less_normal,,,,12327,iPhone 13 128GB - ミッドナイト SIMフリー,C,109699,1,,109699,109699,,big_city,557060,gmail.com,credit_card,big_canceller,512318,109699,35,109699,―
+Sakumoba,80490.0,less_normal,,,,14044,iPhone 13 mini 256GB - ミッドナイト SIMフリー,C,98800,1,,98800,98800,,big_city,574625,gmail.com,credit_card,big_canceller,512342,98800,35,98800,
+Likewize Japan,47121.0,less_normal,,,,3636,iPhone 11 64GB - ブラック SIMフリー,C,43900,2,,87800,87800,,big_city,321698,gmail.com,credit_card,big_canceller,290057,87800,35,87800,―
+Sakumoba,58808.0,less_normal,,,,9936,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 256GB - スペースグレイ,A,83800,1,,83800,83800,,big_city,405335,other,credit_card,big_canceller,338083,83800,35,83800,
+P&G,48082.0,less_normal,,,,8016,Apple Watch SE 第1世代 2020 (GPSモデル) - 2020 - 40mm シルバーアルミニウムケース - ホワイトスポーツバンド付き,A,40000,1,4549995162394-d,40000,40000,,small_city,328421,other,credit_card,big_canceller,450143,40000,35,40000,―
+Likewize Japan,83042.0,less_normal,,,,10665,iPhone 12 128GB - グリーン SIMフリー,C,73000,1,,73000,73000,,big_city,598576,gmail.com,credit_card,big_canceller,418122,73000,35,73000,
+SECOND HAND,79839.0,less_normal,,,,12610,iPhone 12 Pro Max 128GB - パシフィックブルー SIMフリー,C,123000,1,IP12PRM128PBLU-3,123000,123000,,big_city,569045,other,credit_card,big_canceller,413834,123000,35,123000,
+アップルバイヤーズ,53131.0,less_normal,,,,9085,iPad Air 第4世代 10.9インチ - 2020 - WiFi - 64GB - スカイブルー,A,69800,1,,69800,69800,,big_city,364544,other,credit_card,big_canceller,419599,69800,35,69800,―
+P&G,52878.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,big_city,362726,other,credit_card,big_canceller,308532,22990,35,22990,―
+Sakumoba,54884.0,less_normal,,,,9941,iPad mini 第6世代 8.3インチ - 2021 - WiFi - 64GB - パープル,A,68800,1,,68800,68800,,small_city,377124,other,credit_card,big_canceller,512570,68800,35,68800,―
+ワールドモバイル,54969.0,less_normal,,,,7745,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 256GB - スペースグレイ,B,75800,1,,75800,75800,,big_city,377689,other,credit_card,big_canceller,338083,75800,35,75800,―
+Lucky Sky,48846.0,less_normal,,,,6068,iPhone 12 128GB - パープル SIMフリー,A,82000,1,IP12-128G-PURPLE-S,82000,82000,,big_city,333840,other,credit_card,big_canceller,475988,82000,35,82000,―
+Loop Mobile,48860.0,less_normal,,,,4781,iPhone 12 64GB - ホワイト SIMフリー,C,73800,1,PH-AP-IP1200-FAC-064-WH-A2402-C,73800,73800,,big_city,333920,other,credit_card,big_canceller,418117,73800,35,73800,―
+Loop Mobile,48528.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-PC-A2410-C,124000,124000,,big_city,331571,other,credit_card,big_canceller,413849,124000,35,124000,―
+Sakumoba,50911.0,less_normal,,,,7619,iPhone 12 Pro 512GB - シルバー SIMフリー,C,105800,1,,105800,105800,,big_city,348601,other,credit_card,big_canceller,413185,105800,35,105800,
+Amemoba,79190.0,less_normal,,,,12744,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - スペースグレイ,A,96800,1,71505930,96800,96800,,big_city,562882,gmail.com,credit_card,big_canceller,687769,96800,35,96800,―
+Amemoba,79630.0,normal,2022-08-29,44802.48564814815,,13142,iPad mini 第6世代 8.3インチ - 2021 - WiFi - 256GB - スペースグレイ,A,88709,1,CDFWX62Y,88709,88709,,big_city,566894,gmail.com,credit_card,mid_canceller,512567,88709,3,88709,cancel
+SSmarket,66241.0,less_normal,,,,12261,AirPods Pro (エアポッツプロ - MWP22J/A),B,29800,1,1080B,29800,29800,,big_city,460376,other,credit_card,big_canceller,308532,29800,35,29800,―
+アップルバイヤーズ,79033.0,less_normal,,,,13855,iPhone XS 512GB - ゴールド SIMフリー,A,59969,1,38698,59969,59969,,big_city,561412,other,credit_card,big_canceller,226485,59969,35,59969,
+Amemoba,65319.0,less_normal,,,,11724,iPhone 12 256GB - パープル SIMフリー,A,114800,1,682307,114800,114800,,big_city,453456,other,credit_card,big_canceller,475998,114800,35,114800,―
+Amemoba,66538.0,less_normal,,,,11719,iPhone 13 Pro Max 512GB - シエラブルー SIMフリー,A,198000,1,905610,198000,198000,,big_city,462702,other,credit_card,big_canceller,512431,198000,35,198000,
+アップルバイヤーズ,66960.0,less_normal,,,,11616,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - パープル,A,100000,1,,100000,100000,,big_city,465766,other,credit_card,big_canceller,687770,100000,35,100000,―
+Amemoba,83544.0,less_normal,,,,7382,AirPods Pro (エアポッツプロ - MWP22J/A),C,27800,1,XSXU0C6L,27800,27800,,big_city,603318,other,credit_card,big_canceller,308532,27800,35,27800,
+ワールドモバイル,46116.0,less_normal,,,,6768,iPad Pro 第3世代 12.9インチ - 2018 - WiFi + Cellular - 256GB - シルバー SIMフリー,C,78800,1,,78800,78800,,big_city,314932,other,credit_card,big_canceller,320654,78800,35,78800,―
+P&G,47693.0,less_normal,,,,4943,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,119300,1,4549995183955-d,119300,119300,,big_city,325730,other,credit_card,big_canceller,413184,119300,35,119300,―
+P&G,56184.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,big_city,386329,other,credit_card,big_canceller,308532,22990,35,22990,
+ワールドモバイル,78825.0,less_normal,,,,12735,iPad Air 第4世代 10.9インチ - 2020 - WiFi - 64GB - ローズゴールド,A,68800,1,,68800,68800,,big_city,559434,other,credit_card,big_canceller,419597,68800,35,68800,―
+SECOND HAND,79773.0,less_normal,,,,12549,Apple Watch Series 6 (GPSモデル) - 2020 - 44mm ブルーアルミニウムケース - ディープネイビースポーツバンド付き,A,44800,1,AW644ALMGPSSBBLUDNV-1,44800,44800,,small_city,568403,gmail.com,credit_card,big_canceller,568721,44800,35,44800,
+Amemoba,64691.0,less_normal,,,,11115,iPhone 13 Pro 256GB - シエラブルー SIMフリー,C,147800,1,,147800,147800,,big_city,448940,other,credit_card,big_canceller,512422,147800,35,147800,―
+RECO,80883.0,less_normal,,,,12298,iPhone 13 Pro 128 GB - シルバー SIMフリー,B,129900,1,,129900,129900,,big_city,578220,other,credit_card,big_canceller,512412,129900,35,129900,
+ワールドモバイル,81511.0,less_normal,,,,11696,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi + Cellular - 1TB - スペースグレイ SIMフリー,A,104800,1,,104800,104800,,big_city,584151,other,credit_card,big_canceller,338479,104800,35,104800,―
+Loop Mobile,45957.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-PC-A2406-C,99500,99500,,big_city,313764,other,credit_card,big_canceller,413174,99500,35,99500,―
+ワールドモバイル,66580.0,less_normal,,,,11673,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi + Cellular - 256GB - スペースグレイ SIMフリー,C,94800,1,,94800,94800,,big_city,462991,other,credit_card,big_canceller,338464,94800,35,94800,―
+P&G,45316.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MLWK3JA),A,25500,1,4549995085938-d,25500,25500,,small_city,309303,gmail.com,credit_card,big_canceller,308532,25500,35,25500,―
+Amemoba,58565.0,less_normal,,,,10901,iPhone 13 Pro Max 256GB - シエラブルー SIMフリー,A,145800,1,84263906,145800,145800,,small_city,403513,other,credit_card,big_canceller,512429,145800,35,145800,―
+Lucky Sky,46882.0,less_normal,,,,6075,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,120000,1,IP13 PRO-128G-BLUE-S,120000,120000,,big_city,320070,other,credit_card,big_canceller,512418,120000,35,120000,―
+Reuse Style,79636.0,less_normal,,,,13346,MacBook Air 13インチ - 2020 - Retinaディスプレイ - スペースグレイ - Core i5 1.1 GHz - SSD 256GB - RAM 16GB - JIS配列キーボード,B,115000,1,,115000,115000,,small_city,566955,gmail.com,credit_card,big_canceller,716010_JP,115000,35,115000,
+Reuse Style,79185.0,normal,2022-08-27,44800.55626157407,,13275,iPhone 12 64GB - ブラック SIMフリー,A,86899,1,,86899,86899,,small_city,562815,gmail.com,credit_card,mid_canceller,418114,86899,3,86899,cancel
+男前ケータイ,79659.0,less_normal,,,,13427,iPad mini 第6世代 8.3インチ - 2021 - WiFi - 256GB - スペースグレイ,A,88710,1,,88710,88710,,small_city,567177,gmail.com,credit_card,big_canceller,512567,88710,35,88710,
+Reuse Style,79162.0,normal,2022-08-27,44800.4447337963,,12429,MacBook Air 13インチ - 2020 - Retinaディスプレイ - シルバー - Core i5 1.6 GHz - SSD 256GB - RAM 8GB - JIS配列キーボード,C,110000,1,,110000,110000,,big_city,562547,gmail.com,credit_card,mid_canceller,520627_JP,110000,3,110000,cancel
+SECOND HAND,79675.0,normal,2022-08-29,44802.62908564815,,12282,AirPods Pro (エアポッツプロ - MWP22J/A),A,29310,1,APPRWH-1,29310,29310,,big_city,567361,other,credit_card,mid_canceller,308532,29310,3,29310,cancel
+Guest Mobile,79693.0,less_normal,,,,13412,iPhone 13 Pro Max 128GB- グラファイト SIMフリー,A,189800,1,,189800,189800,,big_city,567607,gmail.com,credit_card,big_canceller,512442,189800,35,189800,
+PRODIG,79700.0,less_normal,,,,12452,iPhone 12 128GB - グリーン SIMフリー,B,91796,1,12-gr-128-2,91796,91796,,big_city,567662,gmail.com,credit_card,big_canceller,418122,91796,35,91796,
+Likewize Japan,79931.0,less_normal,,,,4456,iPhone 12 Pro 256GB - グラファイト SIMフリー,B,94000,1,,94000,94000,,big_city,569847,gmail.com,credit_card,big_canceller,413182,94000,35,94000,
+Lucky Sky,83212.0,less_normal,,,,5176,iPhone 13 Pro 256GB - シエラブルー SIMフリー,A,146700,1,IP13 PRO-256G-BLUE-S,146700,146700,,small_city,600070,other,credit_card,big_canceller,512422,146700,35,146700,
+SECOND HAND,79164.0,normal,2022-08-27,44800.45795138889,44802.82019675926,10896,MacBook Air 13インチ - 2018 - Retinaディスプレイ - シルバー - Core i5 1.6 GHz - SSD 128GB - RAM 16GB - JIS配列キーボード - MREA2J/A,B,94000,1,MBA20181316SILV-2,94000,94000,,small_city,562575,gmail.com,credit_card,mid_canceller,569812_JP,94000,3,94000,cancel
+Lucky Sky,48014.0,less_normal,,,,5408,iPhone 12 Pro 128GB - グラファイト SIMフリー,A,105000,1,IP12 PRO-128G-GRAY-S,105000,105000,,big_city,327965,other,credit_card,big_canceller,413171,105000,35,105000,
+Sakumoba,47245.0,less_normal,,,,7482,iPhone 12 Pro 256GB - シルバー SIMフリー,C,98800,1,,98800,98800,,big_city,322550,other,credit_card,big_canceller,413181,98800,35,98800,―
+Lucky Sky,81111.0,less_normal,,,,13437,iPhone 13 Pro 256GB - シルバー SIMフリー,A,147000,1,IP13 PRO-256G-SILVER-S,147000,147000,,big_city,580528,other,credit_card,big_canceller,512414,147000,35,147000,
+Likewize Japan,44233.0,less_normal,,,,7169,iPhone 12 64GB - グリーン SIMフリー,C,63000,1,,63000,63000,,small_city,301421,other,credit_card,big_canceller,418123,63000,35,63000,
+P&G,48025.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,25500,1,4549995085938-d,25500,25500,,small_city,328060,gmail.com,credit_card,big_canceller,308532,25500,35,25500,
+P&G,48798.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,small_city,333534,gmail.com,credit_card,big_canceller,308532,22990,35,22990,―
+Lucky Sky,63265.0,less_normal,,,,4561,iPhone 12 64GB - ホワイト SIMフリー,A,82000,1,IP12-64G-WHITE-S,82000,82000,,small_city,438462,other,credit_card,big_canceller,418117,82000,35,82000,―
+Sakumoba,76266.0,less_normal,,,,11204,AirPods 3 (エアポッツ第3世代 - MME73J/A),A,27991,1,,27991,27991,,big_city,537072,other,credit_card,big_canceller,546537,27991,35,27991,―
+Amemoba,66581.0,less_normal,,,,11427,iPad mini 第6世代 8.3インチ - 2021 - WiFi + Cellular - 64GB - スターライト,A,89800,1,70088393,89800,89800,,big_city,462995,other,credit_card,big_canceller,512575,89800,35,89800,―
+ワールドモバイル,66655.0,less_normal,,,,11680,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi - 128GB - スペースグレイ,B,90800,1,,90800,90800,,big_city,463505,other,credit_card,big_canceller,428049,90800,35,90800,―
+Likewize Japan,80875.0,less_normal,,,,13332,iPhone 12 Pro 128GB - ゴールド SIMフリー,A,93000,1,,93000,93000,,big_city,578077,other,credit_card,big_canceller,413175,93000,35,93000,
+Loop Mobile,52592.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-PC-A2410-C,124000,124000,,big_city,360660,other,credit_card,big_canceller,413849,124000,35,124000,―
+SECOND HAND,66546.0,less_normal,,,,12282,AirPods Pro (エアポッツプロ - MWP22J/A),A,31500,1,APPRWH-1,31500,31500,,big_city,462752,other,credit_card,big_canceller,308532,31500,35,31500,―
+旭東トレーディング,66647.0,less_normal,,,,10778,iPad Pro 11インチ 第1世代 - 2018 - 1TB - WiFi + Cellular - スペースグレイ SIMフリー,A,112500,1,4U1V2J/A,112500,112500,,big_city,463449,other,credit_card,big_canceller,178244,112500,35,112500,―
+Amemoba,64764.0,less_normal,,,,11115,iPhone 13 Pro 256GB - シエラブルー SIMフリー,C,147800,1,,147800,147800,,big_city,449520,other,credit_card,big_canceller,512422,147800,35,147800,―
+Amemoba,65902.0,less_normal,,,,12255,iPad mini 第6世代 8.3インチ - 2021 - WiFi + Cellular - 64GB - ピンク,A,89800,1,77984990,89800,89800,,big_city,457686,other,credit_card,big_canceller,512579,89800,35,89800,―
+ワールドモバイル,66597.0,less_normal,,,,11669,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi - 128GB - スペースグレイ,C,88800,1,,88800,88800,,big_city,463108,other,credit_card,big_canceller,428049,88800,35,88800,―
+Amemoba,68040.0,less_normal,,,,12252,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - スターライト,A,96800,1,71684933,96800,96800,,big_city,473834,other,credit_card,big_canceller,687766,96800,35,96800,―
+Loop Mobile,44153.0,less_normal,,,,4797,iPhone 12 Pro 128GB - グラファイト SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-GP-A2406-C,99500,99500,,big_city,300757,other,credit_card,big_canceller,413171,99500,35,99500,―
+ワールドモバイル,66600.0,less_normal,,,,11673,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi + Cellular - 256GB - スペースグレイ SIMフリー,C,94800,1,,94800,94800,,big_city,463125,other,credit_card,big_canceller,338464,94800,35,94800,―
+Amemoba,66894.0,less_normal,,,,12350,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - ブルー,A,96800,1,1138336,96800,96800,,big_city,465250,other,credit_card,big_canceller,687776,96800,35,96800,
+Amemoba,60273.0,less_normal,,,,11113,iPhone 13 128GB - グリーン SIMフリー,C,108000,1,,108000,108000,,big_city,416254,other,credit_card,big_canceller,624159,108000,35,108000,
+Amemoba,58659.0,less_normal,,,,10907,iPhone 13 Pro 256GB - シルバー SIMフリー,A,133800,1,637652,133800,133800,,big_city,404217,other,credit_card,big_canceller,512414,133800,35,133800,
+Amemoba,60815.0,less_normal,,,,11271,iPhone 13 Pro 256GB - ゴールド SIMフリー,C,148000,1,,148000,148000,,big_city,420434,other,credit_card,big_canceller,512409,148000,35,148000,
+旭東トレーディング,60904.0,less_normal,,,,10778,iPad Pro 11インチ 第1世代 - 2018 - 1TB - WiFi + Cellular - スペースグレイ SIMフリー,A,112500,1,4U1V2J/A,112500,112500,,big_city,421094,other,credit_card,big_canceller,178244,112500,35,112500,
+Amemoba,79166.0,less_normal,,,,12255,iPad mini 第6世代 8.3インチ - 2021 - WiFi + Cellular - 64GB - ピンク,A,89800,1,77984990,89800,89800,,small_city,562614,gmail.com,credit_card,big_canceller,512579,89800,35,89800,
+SECOND HAND,55277.0,less_normal,,,,9182,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,103900,1,IP12PR256PBLU-1,103900,103900,,small_city,379946,other,credit_card,big_canceller,413184,103900,35,103900,―
+Sakumoba,55285.0,less_normal,,,,9937,iPad mini 第6世代 8.3インチ - 2021 - WiFi - 256GB - スターライト,A,76800,1,,76800,76800,,small_city,379993,other,credit_card,big_canceller,512572,76800,35,76800,―
+Reuse Style,79058.0,less_normal,,,,13346,MacBook Air 13インチ - 2020 - Retinaディスプレイ - スペースグレイ - Core i5 1.1 GHz - SSD 256GB - RAM 16GB - JIS配列キーボード,B,115000,1,,115000,115000,,small_city,561630,gmail.com,credit_card,big_canceller,716010_JP,115000,35,115000,
+Loop Mobile,48548.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,97800,1,PH-AP-IP12P0-FAC-128-PC-A2406-C,97800,97800,,big_city,331725,other,credit_card,big_canceller,413174,97800,35,97800,
+アップルバイヤーズ,69281.0,less_normal,,,,11616,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - パープル,A,100000,1,,100000,100000,,big_city,483036,other,credit_card,big_canceller,687770,100000,35,100000,―
+Amemoba,78070.0,less_normal,,,,12699,iPhone 13 Pro Max 256GB - アルパイングリーン SIMフリー,B,168000,1,86178292,168000,168000,,big_city,552444,other,credit_card,big_canceller,624187,168000,35,168000,
+Sakumoba,77547.0,less_normal,,,,12845,iPhone 13 Pro Max 256GB - アルパイングリーン SIMフリー,A,189700,1,,189700,189700,,big_city,547871,other,credit_card,big_canceller,624187,189700,35,189700,
+PRODIG,55865.0,less_normal,,,,9122,iPhone 11 64GB - (PRODUCT)Red SIMフリー,C,41100,1,11-rd-64-3,41100,41100,,big_city,384108,other,credit_card,big_canceller,290060,41100,35,41100,
+Likewize Japan,60178.0,less_normal,,,,1390,iPhone XS Max 64GB - スペースグレイ SIMフリー,B,45000,1,,45000,45000,,big_city,415520,other,credit_card,big_canceller,166063,45000,35,45000,―
+P&G,52189.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,2,4549995085938-d,45980,45980,,big_city,357723,other,credit_card,big_canceller,308532,45980,35,45980,―
+Likewize Japan,71933.0,less_normal,,,,10663,iPhone 12 256GB - ブルー SIMフリー,C,78000,1,,78000,78000,,small_city,502838,gmail.com,credit_card,big_canceller,388612,78000,35,78000,―
+Amemoba,67332.0,less_normal,,,,11606,iPhone 13 128GB  - スターライト SIMフリー,A,110000,1,10906179,110000,110000,,big_city,468538,other,credit_card,big_canceller,512324,110000,35,110000,―
+SECOND HAND,76905.0,less_normal,,,,11358,iPhone 12 64GB - パープル SIMフリー,C,80000,1,IP1264PPL-3,80000,80000,,big_city,542317,gmail.com,credit_card,big_canceller,475946,80000,35,80000,
+Reuse Style,79187.0,normal,2022-08-27,44800.55657407407,,12527,MacBook Air 13インチ - 2020 - Retinaディスプレイ - スペースグレイ - Core i5 1.1 GHz - SSD 256GB - RAM 16GB - JIS配列キーボード,C,113300,1,,113300,113300,,big_city,562836,gmail.com,credit_card,mid_canceller,716010_JP,113300,3,113300,cancel
+アップルバイヤーズ,50295.0,less_normal,,,,8883,iPhone 12 64GB - ホワイト SIMフリー,A,80000,1,,80000,80000,,small_city,344242,other,credit_card,big_canceller,418117,80000,35,80000,―
+Reuse Style,79646.0,less_normal,,,,13274,iPhone 12 64GB - パープル SIMフリー,A,90200,1,,90200,90200,,small_city,567054,gmail.com,credit_card,big_canceller,475946,90200,35,90200,
+Reuse Style,79911.0,normal,2022-08-30,44803.51689814815,,13274,iPhone 12 64GB - パープル SIMフリー,A,90200,1,,90200,90200,,small_city,569720,gmail.com,credit_card,mid_canceller,475946,90200,3,90200,cancel
+Lucky Sky,78918.0,less_normal,,,,5176,iPhone 13 Pro 256GB - シエラブルー SIMフリー,A,147000,1,IP13 PRO-256G-BLUE-S,147000,147000,,small_city,560299,gmail.com,credit_card,big_canceller,512422,147000,35,147000,
+アップルバイヤーズ,80497.0,less_normal,,,,14033,iPhone 12 256GB - (PRODUCT)Red SIMフリー,C,96800,1,38975,96800,96800,,small_city,574668,gmail.com,credit_card,big_canceller,414217,96800,35,96800,
+男前ケータイ,82405.0,入金済み,2022-09-09,44813.58672453704,,13427,iPad mini 第6世代 8.3インチ - 2021 - WiFi - 256GB - スペースグレイ,A,88710,1,,88710,88710,,small_city,592593,gmail.com,credit_card,small_canceller,512567,88710,6,88710,good
+Guest Mobile,81849.0,normal,2022-09-07,44811.27608796296,,13410,iPhone 13 Pro Max 256GB - アルパイングリーン SIMフリー,A,189799,1,,189799,189799,Fraud：なりすましの疑い,small_city,587345,gmail.com,credit_card,mid_canceller,624187,189799,3,189799,cancel
+Lucky Sky,51975.0,less_normal,,,,8909,iPhone 12 128GB - ブラック SIMフリー,A,79000,1,IP12-128G-BLACK-S,79000,79000,,small_city,356336,gmail.com,credit_card,big_canceller,418115,79000,35,79000,
+Amemoba,,less_normal,,,,10899,iPhone 8 64GB - スペースグレイ SIMフリー,C,17699,1,80019482,17699,17699,,big_city,490456,other,credit_card,big_canceller,36827,17699,35,17699,
+Amemoba,76462.0,less_normal,,,,12994,iPad Pro 12.9インチ 第3世代 - 2018 - WiFi + Cellular - 1TB - スペースグレイ SIMフリー,B,99800,1,98665354,99800,99800,,small_city,538602,other,credit_card,big_canceller,178183,99800,35,99800,
+Loop Mobile,54433.0,less_normal,,,,9245,iPhone 12 256GB - グリーン SIMフリー,A,88500,1,PH-AP-IP1200-FAC-256-GR-A2403-A,88500,88500,,big_city,373906,other,credit_card,big_canceller,388256,88500,35,88500,―
+PRODIG,78297.0,less_normal,,,,9389,iPhone 12 128GB - ホワイト SIMフリー,B,91976,1,12-wh-128-2,91976,91976,,small_city,554472,gmail.com,credit_card,big_canceller,418116,91976,35,91976,
+PRODIG,78321.0,less_normal,,,,9389,iPhone 12 128GB - ホワイト SIMフリー,B,91976,1,12-wh-128-2,91976,91976,,small_city,554720,gmail.com,credit_card,big_canceller,418116,91976,35,91976,
+PRODIG,78325.0,less_normal,,,,9389,iPhone 12 128GB - ホワイト SIMフリー,B,91976,1,12-wh-128-2,91976,91976,,small_city,554762,gmail.com,credit_card,big_canceller,418116,91976,35,91976,
+アップルバイヤーズ,57087.0,less_normal,,,,9288,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,102800,1,,102800,102800,,small_city,393116,other,credit_card,big_canceller,413182,102800,35,102800,―
+ワールドモバイル,54786.0,less_normal,,,,7745,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 256GB - スペースグレイ,B,75800,1,,75800,75800,,small_city,376483,gmail.com,credit_card,big_canceller,338083,75800,35,75800,―
+Lucky Sky,54560.0,less_normal,,,,7930,iPhone 13 mini 128GB - ピンク SIMフリー,A,81000,1,IP13 MINI-128G-PINK-S,81000,81000,,small_city,374794,other,credit_card,big_canceller,512332,81000,35,81000,
+P&G,50000.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,small_city,342168,other,credit_card,big_canceller,308532,22990,35,22990,―
+Likewize Japan,58415.0,less_normal,,,,9149,iPhone 12 128GB - ブルー SIMフリー,C,68900,1,,68900,68900,,small_city,402479,other,credit_card,big_canceller,418120,68900,35,68900,―
+Sakumoba,51792.0,less_normal,,,,9119,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,133500,1,,133500,133500,,small_city,354984,other,credit_card,big_canceller,512418,133500,35,133500,
+Amemoba,76648.0,less_normal,,,,12699,iPhone 13 Pro Max 256GB - アルパイングリーン SIMフリー,B,168000,1,86178292,168000,168000,,small_city,540124,other,credit_card,big_canceller,624187,168000,35,168000,―
+Sakumoba,51092.0,less_normal,,,,8128,iPhone 13 mini 128GB - ミッドナイト SIMフリー,A,83800,1,,83800,83800,,big_city,349906,gmail.com,credit_card,big_canceller,512341,83800,35,83800,
+Amemoba,72443.0,less_normal,,,,12813,iPad Pro 11インチ 第3世代  - 2021 - WiFi - 128GB - シルバー,C,105800,1,KK46MHWR,105800,105800,,small_city,506430,other,credit_card,big_canceller,475041,105800,35,105800,
+Amemoba,75672.0,less_normal,,,,12813,iPad Pro 11インチ 第3世代  - 2021 - WiFi - 128GB - シルバー,C,105800,1,KK46MHWR,105800,105800,,small_city,531692,other,credit_card,big_canceller,475041,105800,35,105800,―
+SECOND HAND,55857.0,less_normal,,,,9182,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,103900,1,IP12PR256PBLU-1,103900,103900,,small_city,384047,other,credit_card,big_canceller,413184,103900,35,103900,―
+Likewize Japan,83037.0,less_normal,,,,10665,iPhone 12 128GB - グリーン SIMフリー,C,73000,1,,73000,73000,,small_city,598526,gmail.com,credit_card,big_canceller,418122,73000,35,73000,
+Amemoba,79003.0,less_normal,,,,11283,iPad mini 第6世代 8.3インチ - 2021 - WiFi - 64GB - スペースグレイ,A,82800,1,Q9G6JHKJ,82800,82800,,small_city,561153,gmail.com,credit_card,big_canceller,512566,82800,35,82800,
+Amemoba,81994.0,less_normal,,,,11718,iPhone 12 64GB - ブラック SIMフリー,C,81800,1,11314186,81800,81800,,big_city,588649,other,credit_card,big_canceller,418114,81800,35,81800,
+ハピネスネット,56201.0,less_normal,,,,10634,iPhone 13 Pro 256GB- グラファイト SIMフリー,A,177000,1,,177000,177000,,small_city,386451,other,credit_card,big_canceller,512405,177000,35,177000,―
+ワールドモバイル,66579.0,less_normal,,,,11692,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi - 256GB - スペースグレイ,A,96800,1,,96800,96800,,small_city,462986,other,credit_card,big_canceller,428051,96800,35,96800,―
+Likewize Japan,79955.0,less_normal,,,,4456,iPhone 12 Pro 256GB - グラファイト SIMフリー,B,94000,1,,94000,94000,,small_city,570041,other,credit_card,big_canceller,413182,94000,35,94000,
+Likewize Japan,80869.0,normal,2022-09-02,44806.91255787037,44809.0,4459,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,A,97500,1,,97500,97500,G6TDJC4A0D8Q 保留,small_city,578022,other,credit_card,mid_canceller,413184,97500,3,97500,cancel
+ワールドモバイル,81969.0,less_normal,,,,14064,iPad Pro 12.9インチ 第4世代 - 2020 - WiFi + Cellular - 128GB - シルバー SIMフリー,A,96800,1,,96800,96800,,small_city,588337,other,credit_card,big_canceller,338463,96800,35,96800,
+アップルバイヤーズ,57118.0,less_normal,,,,9006,iPhone 8 Plus 64GB - ゴールド SIMフリー,B,34570,1,299783512835288993803867783168,34570,34570,,big_city,393302,other,credit_card,big_canceller,38771,34570,35,34570,―
+ワールドモバイル,55381.0,less_normal,,,,8304,iPad Pro 11インチ 第2世代 - 2020 - WiFi - 512GB - シルバー,C,80800,1,,80800,80800,,big_city,380636,other,credit_card,big_canceller,338093,80800,35,80800,―
+Likewize Japan,,less_normal,,,,9149,iPhone 12 128GB - ブルー SIMフリー,C,68900,1,,129900,129900,,big_city,404629,other,credit_card,big_canceller,418120,129900,35,68900,
+男前ケータイ,57274.0,less_normal,,,,7436,iPhone 8 Plus 256GB - シルバー SIMフリー,C,36800,1,,36800,36800,,big_city,394383,other,credit_card,big_canceller,38775,36800,35,36800,―
+Amemoba,83921.0,less_normal,,,,7385,AirPods 2 (エアポッツ第2世代 - MV7N2JA),C,13000,1,QD0CLX2Y,13000,13000,,big_city,606526,gmail.com,credit_card,big_canceller,266743,13000,35,13000,
+Lucky Sky,81618.0,less_normal,,,,13433,iPhone 13 256GB - ピンク SIMフリー,A,111800,1,IP13-256G-PINK-S,111800,111800,,small_city,585252,gmail.com,credit_card,big_canceller,512311,111800,35,111800,―
+PRODIG,76027.0,less_normal,,,,12432,iPhone 12 64GB - ホワイト SIMフリー,C,73799,1,12-wh-64-3,73799,73799,,small_city,534852,gmail.com,credit_card,big_canceller,418117,73799,35,73799,
+P&G,49999.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,big_city,342151,other,credit_card,big_canceller,308532,22990,35,22990,
+Loop Mobile,51764.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-PC-A2410-C,124000,124000,,big_city,354805,gmail.com,credit_card,big_canceller,413849,124000,35,124000,―
+Likewize Japan,52082.0,less_normal,,,,3094,iPhone XR 64GB - ブラック SIMフリー,C,29800,1,,29800,29800,,big_city,357021,other,credit_card,big_canceller,161659,29800,35,29800,―
+Amemoba,75693.0,less_normal,,,,13509,iPhone 13 Pro Max 256GB- グラファイト SIMフリー,C,156800,1,5530568,156800,156800,,small_city,531837,other,credit_card,big_canceller,512443,156800,35,156800,―
+RECO,67881.0,less_normal,,,,12253,iPhone 13 Pro Max 256GB- グラファイト SIMフリー,B,169800,1,,169800,169800,,big_city,472656,gmail.com,credit_card,big_canceller,512443,169800,35,169800,
+Amemoba,79685.0,normal,2022-08-29,44802.64795138889,,13854,iPhone 13 Pro Max 512GB- グラファイト SIMフリー,B,193800,1,45485478,193800,193800,,small_city,567508,gmail.com,credit_card,mid_canceller,512444,193800,3,193800,cancel
+RECO,61056.0,less_normal,,,,11232,iPhone 13 Pro 256GB - シルバー SIMフリー,B,158800,1,,158800,158800,,big_city,422121,other,credit_card,big_canceller,512414,158800,35,158800,―
+Lucky Sky,84944.0,入金済み,2022-09-18,44822.76115740741,,12054,iPhone 13 mini 256GB  - スターライト SIMフリー,A,100000,1,IP13 MINI-256G-WHITE-S,100000,100000,,big_city,615889,other,credit_card,small_canceller,512346,100000,6,100000,good
+Loop Mobile,51174.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-PC-A2410-C,124000,124000,,big_city,350471,other,credit_card,big_canceller,413849,124000,35,124000,―
+Loop Mobile,52372.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-PC-A2410-C,124000,124000,,big_city,359015,other,credit_card,big_canceller,413849,124000,35,124000,―
+Loop Mobile,52563.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,124000,1,PH-AP-IP12PM-FAC-512-PC-A2410-C,124000,124000,,big_city,360474,other,credit_card,big_canceller,413849,124000,35,124000,―
+Lucky Sky,76104.0,less_normal,,,,9867,iPhone 12 64GB - ブルー SIMフリー,A,78000,1,IP12-64G-BLUE-S,78000,78000,,small_city,535489,gmail.com,credit_card,big_canceller,418121,78000,35,78000,
+Loop Mobile,50629.0,less_normal,,,,4797,iPhone 12 Pro 128GB - グラファイト SIMフリー,C,97800,1,PH-AP-IP12P0-FAC-128-GP-A2406-C,97800,97800,,big_city,346574,other,credit_card,big_canceller,413171,97800,35,97800,―
+Lucky Sky,76112.0,less_normal,,,,12059,iPhone 12 64GB - グリーン SIMフリー,A,78000,1,IP12-64G-GREEN-S,78000,78000,,small_city,535561,gmail.com,credit_card,big_canceller,418123,78000,35,78000,―
+Amemoba,76106.0,less_normal,,,,10786,iPhone 12 64GB - ブラック SIMフリー,B,76792,1,19210803,76792,76792,,small_city,535538,gmail.com,credit_card,big_canceller,418114,76792,35,76792,―
+ワールドモバイル,77850.0,less_normal,,,,2631,iPad Air 第3世代 10.5インチ - 2019 - WiFi - 256GB - シルバー,C,47800,2,,95600,95600,,big_city,550635,other,credit_card,big_canceller,332779,95600,35,95600,
+アップルバイヤーズ,53291.0,less_normal,,,,9085,iPad Air 第4世代 10.9インチ - 2020 - WiFi - 64GB - スカイブルー,A,69800,1,,69800,69800,,big_city,365653,gmail.com,credit_card,big_canceller,419599,69800,35,69800,―
+ワールドモバイル,77846.0,less_normal,,,,2632,iPad Air 第3世代 10.5インチ - 2019 - WiFi + Cellular - 256GB - ゴールド SIMフリー,C,49800,1,,97600,97600,,big_city,550625,other,credit_card,big_canceller,320131,97600,35,49800,
+Amemoba,,less_normal,,,,13701,iPad Air 第5世代 10.9インチ - 2022 - WiFi + Cellular SIMフリー - 64GB - パープル,A,95170,1,40882155,95170,95170,,small_city,563016,gmail.com,credit_card,big_canceller,687770,95170,35,95170,
+Loop Mobile,53270.0,less_normal,,,,9243,iPhone 12 64GB - グリーン SIMフリー,A,78300,1,PH-AP-IP1200-FAC-064-GR-A2403-A,78300,78300,,big_city,365497,other,credit_card,big_canceller,418123,78300,35,78300,
+PRODIG,64677.0,less_normal,,,,11883,iPhone 13 256GB  - スターライト SIMフリー,A,139800,1,,139800,139800,,big_city,448837,other,credit_card,big_canceller,512325,139800,35,139800,
+Amemoba,74914.0,less_normal,,,,7382,AirPods Pro (エアポッツプロ - MWP22J/A),C,26800,1,J3LVLKKT,26800,26800,,small_city,525410,other,credit_card,big_canceller,308532,26800,35,26800,―
+Amemoba,76460.0,less_normal,,,,13505,iPad Pro 11インチ 第3世代  - 2021 - WiFi + Cellular SIMフリー - 128GB - スペースグレイ,A,128000,1,90939198,128000,128000,,small_city,538589,other,credit_card,big_canceller,475319,128000,35,128000,―
+PRODIG,76677.0,less_normal,,,,4955,iPhone 12 128GB - ブルー SIMフリー,B,93800,1,12-br-128-2,93800,93800,,big_city,540339,other,credit_card,big_canceller,418120,93800,35,93800,
+アップルバイヤーズ,80505.0,normal,2022-09-01,44805.65344907408,,14033,iPhone 12 256GB - (PRODUCT)Red SIMフリー,C,96800,1,38975,96800,96800,"fraud
+なりすましの可能性があり、キャンセル",big_city,574726,gmail.com,credit_card,mid_canceller,414217,96800,3,96800,cancel
+PRODIG,45896.0,less_normal,,,,5506,iPhone 12 128GB - パープル SIMフリー,A,89800,1,,89800,89800,,small_city,313373,other,credit_card,big_canceller,475988,89800,35,89800,―
+アップルバイヤーズ,49000.0,less_normal,,,,8357,iPhone 12 64GB - ホワイト SIMフリー,A,80000,1,,80000,80000,,big_city,334938,gmail.com,credit_card,big_canceller,418117,80000,35,80000,
+アップルバイヤーズ,51770.0,less_normal,,,,9125,iPhone 12 64GB - ブラック SIMフリー,A,79800,1,,79800,79800,,big_city,354833,gmail.com,credit_card,big_canceller,418114,79800,35,79800,
+Likewize Japan,45351.0,less_normal,,,,4445,iPhone 12 64GB - (PRODUCT)Red SIMフリー,C,63000,1,,63000,63000,,big_city,309532,gmail.com,credit_card,big_canceller,418119,63000,35,63000,
+Amemoba,66605.0,less_normal,,,,12255,iPad mini 第6世代 8.3インチ - 2021 - WiFi + Cellular - 64GB - ピンク,A,89800,1,77984990,89800,89800,,big_city,463158,other,credit_card,big_canceller,512579,89800,35,89800,―
+Loop Mobile,50693.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,97800,1,PH-AP-IP12P0-FAC-128-PC-A2406-C,97800,97800,,big_city,347045,gmail.com,credit_card,big_canceller,413174,97800,35,97800,―
+P&G,58615.0,less_normal,,,,4620,AirPods Pro (エアポッツプロ - MWP22J/A),A,22990,1,4549995085938-d,22990,22990,,big_city,403911,other,credit_card,big_canceller,308532,22990,35,22990,―
+PRODIG,67974.0,less_normal,,,,1472,iPhone SE (第2世代) 128GB - ホワイト SIMフリー,C,29800,1,,29800,29800,,small_city,473321,other,credit_card,big_canceller,347184,29800,35,29800,―
+P&G,50072.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,16000,1,4549995054170-d,16000,16000,,small_city,342696,other,credit_card,big_canceller,388408,16000,35,16000,―
+Lucky Sky,44673.0,less_normal,,,,6075,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,125000,1,IP13 PRO-128G-BLUE-S,125000,125000,,small_city,304606,other,credit_card,big_canceller,512418,125000,35,125000,―
+Loop Mobile,58658.0,less_normal,,,,8242,Apple Watch Series 4 (GPS + Cellularモデル ) - 2018 - 40mm スペースグレイアルミニウムケース - ブラックスポーツバンド付き,C,23000,1,"WB-AP-WA4ALU-FAC-040-AG-A2007-C,AC-APLWBD-3840-BK=1",23000,23000,,big_city,404212,other,credit_card,big_canceller,565653,23000,35,23000,―
+Guest Mobile,79994.0,less_normal,,,,13414,iPhone 13 Pro Max 128GB - アルパイングリーン SIMフリー,A,189800,1,,189800,189800,,small_city,570391,other,credit_card,big_canceller,624185,189800,35,189800,
+Amemoba,82564.0,less_normal,,,,12332,iPhone 11 Pro Max 256GB - シルバー SIMフリー,C,83099,1,508741,83099,83099,,big_city,594056,gmail.com,credit_card,big_canceller,290050,83099,35,83099,―
+P&G,50067.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,16000,1,4549995054170-d,16000,16000,,big_city,342669,other,credit_card,big_canceller,388408,16000,35,16000,―
+Likewize Japan,80427.0,normal,2022-09-01,44805.4637037037,,7218,iPhone 12 64GB - ブラック SIMフリー,C,62000,1,,62000,62000,fraud：なりすまし注文の可能性,big_city,574087,gmail.com,credit_card,mid_canceller,418114,62000,3,62000,cancel
+Lucky Sky,80271.0,good,2022-08-31,44804.85064814815,44805.5972800926,5192,iPhone 12 128GB - (PRODUCT)Red SIMフリー,A,85800,1,IP12-128G-RED-S,85800,85800,,small_city,572789,other,credit_card,small_canceller,418118,85800,5,85800,good
+Reuse Style,79049.0,less_normal,,,,12458,iPhone 12 128GB - グリーン SIMフリー,B,91795,1,,91795,91795,,small_city,561559,gmail.com,credit_card,big_canceller,418122,91795,35,91795,
+Amemoba,79435.0,less_normal,,,,13510,iPhone 13 Pro 256GB - アルパイングリーン SIMフリー,A,179998,1,98312195,179998,179998,,small_city,565099,gmail.com,credit_card,big_canceller,624180,179998,35,179998,―
+Amemoba,79691.0,normal,2022-08-29,44802.6591550926,,13369,iPhone 12 Pro 128GB - シルバー SIMフリー,C,100122,1,18026416,100122,100122,,small_city,567573,gmail.com,credit_card,mid_canceller,413172,100122,3,100122,cancel
+Amemoba,82093.0,less_normal,,,,11718,iPhone 12 64GB - ブラック SIMフリー,C,81800,1,11314186,81800,81800,,small_city,589539,other,credit_card,big_canceller,418114,81800,35,81800,
+Likewize Japan,78307.0,less_normal,,,,4602,iPhone 12 Pro 512GB - パシフィックブルー SIMフリー,B,101000,1,,101000,101000,,small_city,554585,gmail.com,credit_card,big_canceller,510372,101000,35,101000,
+Likewize Japan,80498.0,normal,2022-09-01,44805.64701388889,,4653,iPhone 12 Pro 256GB - ゴールド SIMフリー,B,94000,1,,94000,94000,"Fraud
+なりすましの可能性があり、キャンセル",small_city,574684,gmail.com,credit_card,mid_canceller,413183,94000,3,94000,cancel
+Amemoba,80358.0,normal,2022-09-01,44805.06076388889,,7438,AirPods 3 (エアポッツ第3世代 - MME73J/A),A,27396,1,12345678,27396,27396,,big_city,573547,gmail.com,credit_card,mid_canceller,546537,27396,3,27396,cancel
+ワールドモバイル,62851.0,less_normal,,,,5708,iPad mini 第3世代 7.9インチ - 2014 - WiFi + Cellular - 64GB - ゴールド SIMフリー,C,18800,1,,18800,18800,,big_city,435530,gmail.com,credit_card,big_canceller,2427,18800,35,18800,―
+Loop Mobile,43550.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,296506,other,credit_card,big_canceller,413182,95950,35,95950,―
+Likewize Japan,43507.0,less_normal,,,,7247,iPhone 12 256GB - ブルー SIMフリー,B,81000,1,,81000,81000,,small_city,296217,other,credit_card,big_canceller,388612,81000,35,81000,―
+Loop Mobile,43304.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,294812,other,credit_card,big_canceller,413182,95950,35,95950,
+Loop Mobile,42788.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-PC-A2406-Z,99500,99500,,big_city,291113,other,credit_card,big_canceller,413174,99500,35,99500,―
+Loop Mobile,42599.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-PC-A2406-Z,99500,99500,,big_city,289808,other,credit_card,big_canceller,413174,99500,35,99500,―
+Loop Mobile,42261.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,287469,other,credit_card,big_canceller,413182,95950,35,95950,―
+Loop Mobile,41834.0,less_normal,,,,4808,iPhone 12 Pro Max 256GB - ゴールド SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-GD-A2410-Z,122500,122500,,big_city,284360,other,credit_card,big_canceller,413845,122500,35,122500,―
+RECO,41820.0,less_normal,,,,7307,iPhone 8 256GB - シルバー SIMフリー,C,24800,1,,24800,24800,,small_city,284265,other,credit_card,big_canceller,36831,24800,35,24800,
+Likewize Japan,41655.0,less_normal,,,,3392,iPhone 11 128GB - ホワイト SIMフリー,C,48700,1,,48700,48700,,big_city,283061,other,credit_card,big_canceller,311316,48700,35,48700,―
+男前ケータイ,41634.0,less_normal,,,,7148,iPhone 11 256GB - イエロー SIMフリー,B,72800,1,,72800,72800,,small_city,282864,other,credit_card,big_canceller,290072,72800,35,72800,―
+Loop Mobile,41505.0,less_normal,,,,4984,iPhone 12 mini 256GB - ブルー SIMフリー,C,65550,1,PH-AP-IP12M0-FAC-256-BL-A2398-Z,65550,65550,,small_city,281967,gmail.com,credit_card,big_canceller,412310,65550,35,65550,
+ケートラ,41321.0,less_normal,,,,7313,iPhone 12 64GB - ブラック SIMフリー,A,67980,1,未使用,67980,67980,,small_city,280626,gmail.com,credit_card,big_canceller,418114,67980,35,67980,―
+Likewize Japan,41211.0,less_normal,,,,7342,iPhone 12 256GB - ブラック SIMフリー,C,79000,1,,79000,79000,,small_city,279865,gmail.com,credit_card,big_canceller,418112,79000,35,79000,―
+Loop Mobile,41033.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,278626,other,credit_card,big_canceller,413182,95950,35,95950,―
+Loop Mobile,41029.0,less_normal,,,,4989,iPhone 12 Pro Max 512GB - シルバー SIMフリー,C,128500,1,PH-AP-IP12PM-FAC-512-SL-A2410-Z,128500,128500,,big_city,278577,other,credit_card,big_canceller,413848,128500,35,128500,
+Loop Mobile,41012.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,278470,other,credit_card,big_canceller,413182,95950,35,95950,―
+Loop Mobile,40991.0,less_normal,,,,4801,iPhone 12 Pro 256GB - ゴールド SIMフリー,C,95950,1,PH-AP-IP12P0-FAC-256-GD-A2406-Z,95950,95950,,big_city,278290,other,credit_card,big_canceller,413183,95950,35,95950,―
+男前ケータイ,40985.0,less_normal,,,,7265,iPhone 12 Pro 128GB - シルバー SIMフリー,C,99480,1,,99480,99480,,big_city,278240,other,credit_card,big_canceller,413172,99480,35,99480,―
+Loop Mobile,40980.0,less_normal,,,,4800,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,99500,1,PH-AP-IP12P0-FAC-128-PC-A2406-Z,99500,99500,,big_city,278208,other,credit_card,big_canceller,413174,99500,35,99500,―
+Loop Mobile,40863.0,less_normal,,,,4980,iPhone 12 mini 128GB - ブルー SIMフリー,C,58900,1,,58900,58900,,small_city,277406,gmail.com,credit_card,big_canceller,412303,58900,35,58900,
+Loop Mobile,40406.0,less_normal,,,,4991,iPhone 12 Pro Max 512GB - パシフィックブルー SIMフリー,C,117800,1,PH-AP-IP12PM-FAC-512-PC-A2410-Z,117800,117800,,big_city,274208,other,credit_card,big_canceller,413849,117800,35,117800,
+Likewize Japan,39843.0,less_normal,,,,3717,iPhone X 64GB - スペースグレイ SIMフリー,C,28215,1,,28215,28215,,small_city,270260,gmail.com,credit_card,big_canceller,36833,28215,35,28215,―
+Loop Mobile,39691.0,less_normal,,,,4808,iPhone 12 Pro Max 256GB - ゴールド SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-GD-A2410-Z,122500,122500,,big_city,269220,other,credit_card,big_canceller,413845,122500,35,122500,―
+Sakumoba,39474.0,less_normal,,,,7187,iPhone 13 Pro 128GB- グラファイト SIMフリー,A,125800,1,,125800,125800,,small_city,267708,other,credit_card,big_canceller,512403,125800,35,125800,―
+Loop Mobile,43508.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,296207,other,credit_card,big_canceller,413182,95950,35,95950,―
+Loop Mobile,43291.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,294732,other,credit_card,big_canceller,413182,95950,35,95950,
+Loop Mobile,42850.0,less_normal,,,,4989,iPhone 12 Pro Max 512GB - シルバー SIMフリー,C,128500,1,PH-AP-IP12PM-FAC-512-SL-A2410-Z,128500,128500,,big_city,291517,other,credit_card,big_canceller,413848,128500,35,128500,―
+Lucky Sky,42820.0,less_normal,,,,6075,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,125000,1,IP13 PRO-128G-BLUE-S,125000,125000,,big_city,291321,other,credit_card,big_canceller,512418,125000,35,125000,―
+Sousia,41940.0,less_normal,,,,7355,iPad Air 2 9.7inch - 2014 - WiFi - 64GB - シルバー,B,28000,1,Air2-64-SV,28000,26600,,big_city,285154,gmail.com,credit_card,big_canceller,2638,26600,35,28000,―
+ワールドモバイル,41927.0,less_normal,,,,5580,iPad Air 2 9.7inch - 2014 - WiFi - 64GB - ゴールド,B,25800,2,,51600,51600,,big_city,285051,gmail.com,credit_card,big_canceller,2641,51600,35,51600,
+Loop Mobile,41865.0,less_normal,,,,4809,iPhone 12 Pro Max 256GB - パシフィックブルー SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-PC-A2410-Z,122500,122500,,big_city,284578,other,credit_card,big_canceller,413846,122500,35,122500,―
+Sousia,41857.0,less_normal,,,,7355,iPad Air 2 9.7inch - 2014 - WiFi - 64GB - シルバー,B,28000,3,Air2-64-SV,84000,84000,,big_city,284516,gmail.com,credit_card,big_canceller,2638,84000,35,84000,
+Likewize Japan,41427.0,less_normal,,,,4446,iPhone 12 128GB - ブラック SIMフリー,B,72000,1,,72000,72000,,big_city,281410,gmail.com,credit_card,big_canceller,418115,72000,35,72000,
+Likewize Japan,41412.0,less_normal,,,,3392,iPhone 11 128GB - ホワイト SIMフリー,C,48700,1,,48700,48700,,big_city,281290,other,credit_card,big_canceller,311316,48700,35,48700,
+Amemoba,41212.0,less_normal,,,,7382,AirPods Pro (エアポッツプロ - MWP22J/A),C,19500,1,XSXU0C6L,43000,43000,,big_city,279873,other,credit_card,big_canceller,308532,43000,35,19500,―
+Amemoba,41212.0,less_normal,,,,7378,AirPods Pro (エアポッツプロ - MWP22J/A),A,23500,1,M4TE0C6L,43000,43000,,big_city,279874,other,credit_card,big_canceller,308532,43000,35,23500,―
+DAR,41204.0,less_normal,,,,5250,iPhone XR 64GB - ブラック SIMフリー,C,30870,1,,30870,30870,,small_city,279816,other,credit_card,big_canceller,161659,30870,35,30870,―
+Loop Mobile,41165.0,less_normal,,,,4806,iPhone 12 Pro Max 256GB - グラファイト SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-GP-A2410-Z,122500,122500,,big_city,279578,other,credit_card,big_canceller,413847,122500,35,122500,―
+Likewize Japan,41104.0,less_normal,,,,7343,iPhone 12 256GB - グリーン SIMフリー,C,81000,1,,81000,81000,,big_city,279107,other,credit_card,big_canceller,388256,81000,35,81000,―
+ワールドモバイル,41010.0,less_normal,,,,5028,iPad mini 5 7.9inch - 2019 - WiFi + 4G - 256GB - シルバー,C,47800,1,,47800,47800,,big_city,278450,other,credit_card,big_canceller,338935,47800,35,47800,
+Lucky Sky,41009.0,less_normal,,,,5099,iPhone 12 Pro 256GB - グラファイト SIMフリー,A,105000,1,IP12 PRO-256G-GRAY-S,105000,105000,,big_city,278445,other,credit_card,big_canceller,413182,105000,35,105000,
+Loop Mobile,41002.0,less_normal,,,,4809,iPhone 12 Pro Max 256GB - パシフィックブルー SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-PC-A2410-Z,122500,122500,,big_city,278350,other,credit_card,big_canceller,413846,122500,35,122500,―
+Loop Mobile,40666.0,less_normal,,,,4989,iPhone 12 Pro Max 512GB - シルバー SIMフリー,C,128500,1,PH-AP-IP12PM-FAC-512-SL-A2410-Z,128500,128500,,big_city,276027,gmail.com,credit_card,big_canceller,413848,128500,35,128500,
+男前ケータイ,40625.0,less_normal,,,,5146,iPhone 11 64GB - ブラック SIMフリー,C,44380,1,,44380,44380,,big_city,275749,other,credit_card,big_canceller,290057,44380,35,44380,―
+ケートラ,40603.0,less_normal,,,,7200,Xperia XZ3 64GB - ブラック SIMフリー,A,19980,1,,19980,19980,,big_city,275583,other,credit_card,big_canceller,173172,19980,35,19980,
+Lucky Sky,40570.0,less_normal,,,,7227,iPhone 12 Pro Max 256GB - シルバー SIMフリー,A,120000,1,IP12 PRO MAX-256G-SILVER-S,120000,120000,,big_city,275383,other,credit_card,big_canceller,413844,120000,35,120000,
+男前ケータイ,40549.0,less_normal,,,,7265,iPhone 12 Pro 128GB - シルバー SIMフリー,C,99480,1,,99480,99480,,big_city,275238,other,credit_card,big_canceller,413172,99480,35,99480,―
+Loop Mobile,40395.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,big_city,274129,other,credit_card,big_canceller,413182,95950,35,95950,―
+P&G,40361.0,less_normal,,,,4664,AirPods (エアポッツ第2世代 - MRXJ2J/A) with Wireless Charging Case ワイヤレス充電,A,15200,1,4549995054170-d,15200,15200,,big_city,273901,gmail.com,credit_card,big_canceller,388408,15200,35,15200,―
+Lucky Sky,40277.0,less_normal,,,,6075,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,125000,1,IP13 PRO-128G-BLUE-S,207000,207000,,big_city,273376,other,credit_card,big_canceller,512418,207000,35,125000,
+Lucky Sky,40277.0,less_normal,,,,6068,iPhone 12 128GB - パープル SIMフリー,A,82000,1,IP12-128G-PURPLE-S,207000,207000,,big_city,273377,other,credit_card,big_canceller,475988,207000,35,82000,
+Loop Mobile,40219.0,less_normal,,,,4904,iPhone 12 Pro 256GB - グラファイト SIMフリー,C,95950,1,,95950,95950,,small_city,272955,other,credit_card,big_canceller,413182,95950,35,95950,
+Loop Mobile,40218.0,less_normal,,,,4906,iPhone 12 Pro 256GB - シルバー SIMフリー,C,95950,1,PH-AP-IP12P0-FAC-256-SL-A2406-Z,95950,95950,,big_city,272950,other,credit_card,big_canceller,413181,95950,35,95950,―
+Loop Mobile,40216.0,less_normal,,,,4989,iPhone 12 Pro Max 512GB - シルバー SIMフリー,C,128500,1,PH-AP-IP12PM-FAC-512-SL-A2410-Z,128500,128500,,big_city,272941,other,credit_card,big_canceller,413848,128500,35,128500,
+Loop Mobile,40215.0,less_normal,,,,4989,iPhone 12 Pro Max 512GB - シルバー SIMフリー,C,128500,1,PH-AP-IP12PM-FAC-512-SL-A2410-Z,128500,128500,,big_city,272936,other,credit_card,big_canceller,413848,128500,35,128500,―
+Lucky Sky,40212.0,less_normal,,,,7226,iPhone 12 Pro Max 128GB - ゴールド SIMフリー,B,120000,1,IP12 PRO MAX-128G-GOLD-A,120000,120000,,big_city,272912,other,credit_card,big_canceller,413839,120000,35,120000,
+RECO,40153.0,less_normal,,,,5044,iPhone 8 256GB - ゴールド SIMフリー,C,20900,1,,20900,20900,,big_city,272527,gmail.com,credit_card,big_canceller,36832,20900,35,20900,―
+P&G,40094.0,less_normal,,,,4664,AirPods (エアポッツ第2世代 - MRXJ2J/A) with Wireless Charging Case ワイヤレス充電,A,15200,1,4549995054170-d,15200,15200,,big_city,272085,gmail.com,credit_card,big_canceller,388408,15200,35,15200,―
+Stone Gold,40049.0,less_normal,,,,5813,iPad Pro 12.9inch - 2018 - 64GB -  WiFi - スペースグレイ,C,87800,1,,87800,87800,,big_city,271704,gmail.com,credit_card,big_canceller,178152,87800,35,87800,
+Loop Mobile,40018.0,less_normal,,,,4906,iPhone 12 Pro 256GB - シルバー SIMフリー,C,95950,1,PH-AP-IP12P0-FAC-256-SL-A2406-Z,95950,95950,,big_city,271458,other,credit_card,big_canceller,413181,95950,35,95950,―
+Lucky Sky,39943.0,less_normal,,,,6075,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,125000,1,IP13 PRO-128G-BLUE-S,125000,125000,,small_city,270899,other,credit_card,big_canceller,512418,125000,35,125000,―
+男前ケータイ,39907.0,less_normal,,,,5826,iPhone 11 128GB - ブラック SIMフリー,C,51480,1,,51480,51480,,big_city,270661,gmail.com,credit_card,big_canceller,290063,51480,35,51480,
+Lucky Sky,39864.0,less_normal,,,,7225,iPhone 12 Pro Max 128GB - グラファイト SIMフリー,A,120000,1,IP12 PRO MAX-128G-GRAY-S,120000,120000,,small_city,270377,other,credit_card,big_canceller,413837,120000,35,120000,
+Loop Mobile,39863.0,less_normal,,,,4905,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,C,95950,1,,95950,95950,,big_city,270372,other,credit_card,big_canceller,413184,95950,35,95950,―
+Loop Mobile,39861.0,less_normal,,,,4905,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,C,95950,1,,95950,95950,,big_city,270362,other,credit_card,big_canceller,413184,95950,35,95950,―
+Likewize Japan,39858.0,less_normal,,,,4453,iPhone 12 Pro Max 128GB - パシフィックブルー SIMフリー,C,102000,1,,102000,102000,,small_city,270334,gmail.com,credit_card,big_canceller,413834,102000,35,102000,―
+Stone Gold,39853.0,less_normal,,,,6429,iPhone 13 128GB - ミッドナイト SIMフリー,A,99800,1,,99800,99800,,small_city,270297,other,credit_card,big_canceller,512318,99800,35,99800,―
+Lucky Sky,39848.0,less_normal,,,,6075,iPhone 13 Pro 128GB - シエラブルー SIMフリー,A,125000,1,IP13 PRO-128G-BLUE-S,125000,125000,,big_city,270265,gmail.com,credit_card,big_canceller,512418,125000,35,125000,―
+Stone Gold,39701.0,less_normal,,,,6429,iPhone 13 128GB - ミッドナイト SIMフリー,A,99800,1,,99800,99800,,small_city,269292,other,credit_card,big_canceller,512318,99800,35,99800,―
+Loop Mobile,39690.0,less_normal,,,,4809,iPhone 12 Pro Max 256GB - パシフィックブルー SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-PC-A2410-Z,122500,122500,,small_city,269214,other,credit_card,big_canceller,413846,122500,35,122500,―
+Lucky Sky,39579.0,less_normal,,,,5407,iPhone 12 128GB - ホワイト SIMフリー,A,82000,1,IP12-128G-WHITE-S,82000,82000,,big_city,268460,gmail.com,credit_card,big_canceller,418116,82000,35,82000,―
+男前ケータイ,39577.0,less_normal,,,,5955,iPhone XS Max 64GB - スペースグレイ SIMフリー,C,45480,1,,45480,45480,,small_city,268442,gmail.com,credit_card,big_canceller,166063,45480,35,45480,―
+男前ケータイ,,less_normal,,,,6126,iPhone XS 256GB - ゴールド SIMフリー,C,38480,1,,83960,83960,,big_city,268438,gmail.com,credit_card,big_canceller,161655,83960,35,38480,
+男前ケータイ,39572.0,less_normal,,,,5955,iPhone XS Max 64GB - スペースグレイ SIMフリー,C,45480,1,,45480,45480,,small_city,268416,gmail.com,credit_card,big_canceller,166063,45480,35,45480,
+Loop Mobile,39480.0,less_normal,,,,5860,iPhone 12 Pro Max 512GB - グラファイト SIMフリー,C,128500,1,PH-AP-IP12PM-FAC-512-GP-A2410-Z,128500,128500,,small_city,267749,other,credit_card,big_canceller,413851,128500,35,128500,
+Loop Mobile,39389.0,less_normal,,,,4980,iPhone 12 mini 128GB - ブルー SIMフリー,C,58900,1,,58900,58900,,big_city,267073,gmail.com,credit_card,big_canceller,412303,58900,35,58900,
+Loop Mobile,39121.0,less_normal,,,,4906,iPhone 12 Pro 256GB - シルバー SIMフリー,C,95950,1,PH-AP-IP12P0-FAC-256-SL-A2406-Z,95950,95950,,big_city,265099,gmail.com,credit_card,big_canceller,413181,95950,35,95950,
+Loop Mobile,39075.0,less_normal,,,,4809,iPhone 12 Pro Max 256GB - パシフィックブルー SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-PC-A2410-Z,122500,122500,,big_city,264768,other,credit_card,big_canceller,413846,122500,35,122500,
+Stone Gold,38785.0,less_normal,,,,6429,iPhone 13 128GB - ミッドナイト SIMフリー,A,99800,1,,99800,99800,,big_city,262749,other,credit_card,big_canceller,512318,99800,35,99800,
+Stone Gold,38706.0,less_normal,,,,6429,iPhone 13 128GB - ミッドナイト SIMフリー,A,99800,1,,99800,99800,,big_city,262231,other,credit_card,big_canceller,512318,99800,35,99800,―
+アップルバイヤーズ,38621.0,less_normal,,,,7211,iPhone 13 Pro 128 GB - シルバー SIMフリー,B,125000,1,,125000,125000,,small_city,261582,gmail.com,credit_card,big_canceller,512412,125000,35,125000,
+Loop Mobile,38477.0,less_normal,,,,4806,iPhone 12 Pro Max 256GB - グラファイト SIMフリー,C,122500,1,PH-AP-IP12PM-FAC-256-GP-A2410-Z,122500,122500,,big_city,260532,other,credit_card,big_canceller,413847,122500,35,122500,―
+Loop Mobile,38303.0,less_normal,,,,4905,iPhone 12 Pro 256GB - パシフィックブルー SIMフリー,C,95950,1,,95950,95950,,small_city,259326,other,credit_card,big_canceller,413184,95950,35,95950,
+Loop Mobile,38101.0,less_normal,,,,4974,iPhone 12 mini 64GB - ブルー SIMフリー,C,59500,1,PH-AP-IP12M0-FAC-064-BL-A2398-Z,59500,59500,,big_city,257723,other,credit_card,big_canceller,412289,59500,35,59500,
+Stone Gold,38077.0,less_normal,,,,6429,iPhone 13 128GB - ミッドナイト SIMフリー,A,99800,1,,99800,99800,,small_city,257560,other,credit_card,big_canceller,512318,99800,35,99800,―
+Lucky Sky,38053.0,less_normal,,,,4238,iPhone 11 Pro 256GB - スペースグレイ SIMフリー,A,72000,1,IP11 PRO-256G-GRAY-S,72000,72000,,big_city,257411,gmail.com,credit_card,big_canceller,290037,72000,35,72000,―
+Stone Gold,38050.0,less_normal,,,,6429,iPhone 13 128GB - ミッドナイト SIMフリー,A,99800,1,,99800,99800,,small_city,257392,other,credit_card,big_canceller,512318,99800,35,99800,―
+ワールドモバイル,37924.0,less_normal,,,,6764,iPad Pro 12.9inch - 2018 - 256GB - WiFi + 4G - スペースグレイ,C,78800,1,,78800,78800,,big_city,256573,gmail.com,credit_card,big_canceller,313719,78800,35,78800,―
+PRODIG,37726.0,less_normal,,,,6953,iPhone 13 Pro 256GB - ゴールド SIMフリー,A,126800,1,,126800,126800,,big_city,255158,gmail.com,credit_card,big_canceller,512409,126800,35,126800,―
+Sakumoba,85336.0,less_normal,,,,11204,AirPods 3 (エアポッツ第3世代 - MME73J/A),A,27380,1,,27380,27380,,small_city,619487,gmail.com,credit_card,big_canceller,546537,27380,35,27380,
+ハピネスネット,85334.0,less_normal,,,,11384,iPhone 12 64GB - ブルー SIMフリー,C,72398,1,,72398,72398,,small_city,619466,gmail.com,credit_card,big_canceller,418121,72398,35,72398,
+Amemoba,85325.0,less_normal,,,,11718,iPhone 12 64GB - ブラック SIMフリー,C,69893,1,95923433,69893,69893,,small_city,619353,gmail.com,credit_card,big_canceller,418114,69893,35,69893,
+Lucky Sky,85312.0,less_normal,,,,13431,iPhone 13 128GB - (Product)Red SIMフリー,A,100280,1,IP13-128G-RED-S,100280,100280,,big_city,619252,gmail.com,credit_card,big_canceller,512320,100280,35,100280,
+Amemoba,85297.0,less_normal,,,,11718,iPhone 12 64GB - ブラック SIMフリー,C,69893,1,95923433,69893,69893,,small_city,619127,gmail.com,credit_card,big_canceller,418114,69893,35,69893,―
+Amemoba,85296.0,less_normal,,,,11718,iPhone 12 64GB - ブラック SIMフリー,C,69893,1,95923433,69893,69893,,big_city,619104,gmail.com,credit_card,big_canceller,418114,69893,35,69893,
+Amemoba,85247.0,less_normal,,,,11718,iPhone 12 64GB - ブラック SIMフリー,C,69896,1,95923433,69896,69896,,small_city,618669,gmail.com,credit_card,big_canceller,418114,69896,35,69896,
+男前ケータイ,85043.0,less_normal,,,,9924,iPhone 11 Pro Max 256GB - スペースグレイ SIMフリー,A,95690,1,,95690,95690,,big_city,616836,other,credit_card,big_canceller,290049,95690,35,95690,
+P&G,84378.0,less_normal,,,,13097,Apple Watch Series 3 (GPSモデル) - 2017 - 38mm スペースグレイアルミニウムケース - ブラックスポーツバンド付き,A,23800,1,4549995043402-d,23800,23800,,small_city,610678,gmail.com,credit_card,big_canceller,48408,23800,35,23800,
+ハピネスネット,84514.0,good,2022-09-17,44821.08684027778,44821.85277777778,13453,iPhone SE (第2世代) 64GB - ブラック SIMフリー,A,30796,1,,30796,30796,,small_city,611778,gmail.com,credit_card,small_canceller,347172,30796,5,30796,good
+gizmogo,85763.0,less_normal,,,,14692,iPhone 12 64GB - ブラック SIMフリー,C,68000,1,998630,68000,68000,,small_city,622366,gmail.com,credit_card,big_canceller,418114,68000,35,68000,
+RECO,85759.0,less_normal,,,,14094,iPhone 12 64GB - グリーン SIMフリー,A,84800,1,,84800,84800,,big_city,622350,gmail.com,credit_card,big_canceller,418123,84800,35,84800,
+Likewize Japan,85579.0,less_normal,,,,4078,iPhone XR 128GB - ホワイト SIMフリー,C,30571,1,,30571,30571,,small_city,621109,gmail.com,credit_card,big_canceller,198831,30571,35,30571,
+P&G,85559.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,18500,1,4549995054170-d,18500,18500,,big_city,620999,gmail.com,credit_card,big_canceller,388408,18500,35,18500,―
+Guest Mobile,85512.0,less_normal,,,,13407,iPhone 13 Pro Max 256GB- グラファイト SIMフリー,A,199800,1,,199800,199800,,big_city,620703,gmail.com,credit_card,big_canceller,512443,199800,35,199800,
+P&G,85495.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,18500,1,4549995054170-d,18500,18500,,small_city,620583,gmail.com,credit_card,big_canceller,388408,18500,35,18500,
+SSmarket,85461.0,less_normal,,,,14293,Apple Watch Series 3 (GPSモデル) - 2017 - 38mm スペースグレイアルミニウムケース - ブラックスポーツバンド付き,A,23799,1,1233A,23799,23799,,big_city,620355,gmail.com,credit_card,big_canceller,48408,23799,35,23799,
+P&G,85448.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,18500,1,4549995054170-d,18500,18500,,small_city,620287,gmail.com,credit_card,big_canceller,388408,18500,35,18500,
+Loop Mobile,85810.0,対応中,2022-09-21,44825.75121527778,,14505,Apple Watch Series 6 (GPSモデル) - 2020 - 44mm ブルーアルミニウムケース - バンド無し,B,40250,1,WB-AP-WA6ALU-WIF-044-BL-A2292-B,40250,40250,,big_city,622632,gmail.com,credit_card,small_canceller,999999084,40250,4,40250,good
+RECO,85360.0,less_normal_2,2022-09-20,44824.45108796296,44824.71309027778,13170,iPhone 13 128GB  - スターライト SIMフリー,C,107800,1,,107800,107800,,big_city,619674,gmail.com,credit_card,small_canceller,512324,107800,33,107800,good
+Likewize Japan,85111.0,対応中,2022-09-19,44823.47818287037,,4607,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,C,85500,1,,85500,85500,G6TDJ03R0D8L,big_city,617601,gmail.com,credit_card,small_canceller,413174,85500,4,85500,good
+P&G,85802.0,less_normal,,,,4664,AirPods 2 (エアポッツ第2世代 - MRXJ2JA) with Wireless Charging Case (ワイヤレス充電),A,18500,1,4549995054170-d,18500,18500,,small_city,622585,gmail.com,credit_card,big_canceller,388408,18500,35,18500,
+Amemoba,87185.0,good,2022-09-26,44830.69855324074,44830.83502314815,7612,iPhone 11 64GB - ホワイト SIMフリー,A,58800,1,1559686,58800,58800,,small_city,631376,gmail.com,credit_card,small_canceller,290058,58800,5,58800,good
+Amemoba,87473.0,less_normal,,,,14851,iPhone 13 Pro 128GB- グラファイト SIMフリー,B,132800,1,2681746,132800,132800,,big_city,633382,other,credit_card,big_canceller,512403,132800,35,132800,
+Amemoba,87417.0,less_normal,,,,10858,iPhone 13 128GB - ブルー SIMフリー,A,111990,1,88887830,111990,111990,,big_city,633049,gmail.com,credit_card,big_canceller,512315,111990,35,111990,
+ハピネスネット,87212.0,less_normal,,,,14820,iPhone 13 128GB - ブルー SIMフリー,C,103800,1,,103800,103800,,big_city,631578,other,credit_card,big_canceller,512315,103800,35,103800,―
+Lucky Sky,87190.0,less_normal,,,,13431,iPhone 13 128GB - (Product)Red SIMフリー,A,100280,1,IP13-128G-RED-S,100280,100280,,big_city,631401,other,credit_card,big_canceller,512320,100280,35,100280,―
+Amemoba,87184.0,less_normal,,,,11416,iPhone 13 Pro Max 128GB - シエラブルー SIMフリー,C,150000,1,9470816,150000,150000,,big_city,631373,other,credit_card,big_canceller,512428,150000,35,150000,―
+Amemoba,87179.0,less_normal,,,,14488,iPhone 12 Pro 128GB - パシフィックブルー SIMフリー,B,99865,1,12567613,99865,99865,,big_city,631335,gmail.com,credit_card,big_canceller,413174,99865,35,99865,
+Reuse Style,87164.0,less_normal,,,,13010,iPad Pro 11インチ 第1世代 - 2018 - WiFi - 64GB - シルバー,C,57000,1,,57000,57000,,small_city,631200,gmail.com,credit_card,big_canceller,266617,57000,35,57000,
+SSmarket,86954.0,less_normal,,,,14346,iPad Air 第3世代 10.5インチ - 2019 - WiFi - 256GB - スペースグレイ,B,56800,1,1207/1210B,56800,56800,,big_city,629849,other,credit_card,big_canceller,320133,56800,35,56800,
+Sakumoba,86807.0,less_normal,,,,11204,AirPods 3 (エアポッツ第3世代 - MME73J/A),A,27380,2,,54760,54760,,big_city,628944,other,credit_card,big_canceller,546537,54760,35,54760,
+Likewize Japan,86496.0,less_normal,,,,7218,iPhone 12 64GB - ブラック SIMフリー,C,63000,1,,63000,63000,,small_city,626815,other,credit_card,big_canceller,418114,63000,35,63000,―
+Likewize Japan,86164.0,less_normal,,,,7218,iPhone 12 64GB - ブラック SIMフリー,C,67689,1,,67689,67689,,big_city,624770,other,credit_card,big_canceller,418114,67689,35,67689,
+gizmogo,86106.0,less_normal,,,,14635,iPhone 13 Pro Max 256GB - シエラブルー SIMフリー,A,155000,1,100135,155000,155000,,big_city,624344,gmail.com,credit_card,big_canceller,512429,155000,35,155000,
